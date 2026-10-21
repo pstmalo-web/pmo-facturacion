@@ -2,6 +2,12 @@ import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
 import { SUPABASE_URL, SUPABASE_KEY } from "@/lib/supabase/config";
 
+// En el PMO este middleware manda al login a quien no tiene sesión. En este
+// repo NO hay login: la sesión se abre sola con el usuario de prueba de
+// .env.local (`FACTURACION_USUARIO_DEV`), porque las rutas del módulo sí
+// necesitan un usuario real para RLS y para `esGestorServidor`.
+// Cambiar ese usuario en .env.local (admin ↔ auditor) cambia la sesión en el
+// siguiente request. Solo en desarrollo: este repo no se despliega.
 export async function middleware(request: NextRequest) {
   let respuesta = NextResponse.next({ request });
 
@@ -27,30 +33,22 @@ export async function middleware(request: NextRequest) {
     data: { user },
   } = await supabase.auth.getUser();
 
-  const esLogin = request.nextUrl.pathname.startsWith("/login");
+  const email = process.env.FACTURACION_USUARIO_DEV;
+  const clave = process.env.FACTURACION_CLAVE_DEV;
+  const enDesarrollo = process.env.NODE_ENV !== "production";
 
-
-  if (!user && !esLogin) {
-    // A dónde iba: sin esto, entrar por un enlace a una cotización concreta
-    // terminaba siempre en el Dashboard. Solo rutas internas (una URL
-    // absoluta o "//host" aquí sería una redirección abierta).
-    const destino = request.nextUrl.pathname + request.nextUrl.search;
-    const url = request.nextUrl.clone();
-    url.pathname = "/login";
-    // clone() conserva la query de la ruta original, que ya viaja dentro de
-    // `destino`: sin limpiarla, /cotizaciones?estado=x redirigía a
-    // /login?estado=x&destino=…
-    url.search = "";
-    if (destino !== "/" && !destino.startsWith("//")) {
-      url.searchParams.set("destino", destino);
+  if (enDesarrollo && email && clave && user?.email !== email) {
+    // signInWithPassword escribe las cookies por setAll: las del request
+    // (para que la página o la API de ESTE mismo request ya vean la sesión)
+    // y las de la respuesta (para los siguientes).
+    const { error } = await supabase.auth.signInWithPassword({ email, password: clave });
+    if (error) {
+      return new NextResponse(
+        `No se pudo abrir la sesión de prueba con ${email}: ${error.message}. ` +
+          "¿Está corriendo `npx supabase start` y coincide .env.local con supabase/seed.sql?",
+        { status: 500, headers: { "content-type": "text/plain; charset=utf-8" } }
+      );
     }
-    return NextResponse.redirect(url);
-  }
-
-  if (user && esLogin) {
-    const url = request.nextUrl.clone();
-    url.pathname = "/";
-    return NextResponse.redirect(url);
   }
 
   return respuesta;
@@ -58,8 +56,6 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    // site.webmanifest va excluido: el navegador lo pide sin sesión y un 307
-    // al login deja el favicon de Android/instalación sin definir.
     "/((?!_next/static|_next/image|favicon.ico|site.webmanifest|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)",
   ],
 };

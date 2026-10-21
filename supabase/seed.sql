@@ -1,7 +1,8 @@
 -- Datos de PRUEBA para el Supabase local. Todo es inventado: ni las entidades,
 -- ni los proyectos, ni las cotizaciones existen en el PMO real.
 --
--- Usuarios (solo existen en tu stack local):
+-- Usuarios (solo existen en tu stack local). No hay pantalla de login: el
+-- middleware abre la sesión sola con el que diga .env.local.
 --   admin@prueba.test    rol admin   → emite, anula, reenvía
 --   auditor@prueba.test  rol auditor → ve todo en solo lectura
 -- Contraseña de ambos: Prueba-XxflirQ3QawQ

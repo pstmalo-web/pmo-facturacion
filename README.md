@@ -21,13 +21,17 @@ npm run dev                 # http://localhost:3000
 ```
 
 `npx supabase start` aplica `supabase/migrations/` y carga `supabase/seed.sql`.
-Los usuarios de prueba y su contraseña están escritos al principio de
-`supabase/seed.sql`:
 
-| Correo | Rol | Qué puede hacer |
+**No hay login.** Al abrir la app, el middleware abre la sesión solo con el
+usuario de prueba que diga `.env.local` (`FACTURACION_USUARIO_DEV`). Los dos
+usuarios del seed son:
+
+| `FACTURACION_USUARIO_DEV` | Rol | Qué puede hacer |
 |---|---|---|
-| `admin@prueba.test` | admin | emitir, anular, reenviar, borrar demo |
+| `admin@prueba.test` (por defecto) | admin | emitir, anular, reenviar, borrar demo |
 | `auditor@prueba.test` | auditor | ver todo, sin tocar nada |
+
+Para probar el otro rol, cambia esa línea de `.env.local` y recarga.
 
 Para volver a la base limpia: `npx supabase db reset`.
 
@@ -65,7 +69,7 @@ viaja al PMO y lo que funcionaba aquí se rompe allá:
 - `lib/perfil.ts`, `lib/perfil-servidor.ts`, `components/PerfilProvider.tsx`
 - `lib/types.ts`, `lib/proyectos/*`, `lib/analitica.ts`, `lib/descargas.ts`, `lib/format.ts`
 - `lib/supabase/*`, `components/ui/*`, `middleware.ts`
-- `app/layout.tsx`, `app/(app)/layout.tsx`, `app/login/`, `app/page.tsx`, `app/globals.css`, `app/erma-tokens.css`
+- `app/layout.tsx`, `app/(app)/layout.tsx`, `app/page.tsx`, `app/globals.css`, `app/erma-tokens.css`
 
 Si el módulo necesita algo nuevo de ahí (una columna de `proyectos`, un rol,
 un componente de UI), dilo en la descripción del PR.
