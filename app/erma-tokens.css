@@ -1,0 +1,92 @@
+/* ERMA Aegis — paleta 2026 (vino / arena / teal)
+   Uso: importar en pmo.erma-aegis.com y erma-aegis.com antes de los estilos de app. */
+
+:root {
+  /* Base */
+  --erma-vino: #8F2A32;
+  --erma-vino-dark: #6E1F26;
+  --erma-vino-light: #B85A5F;
+
+  --erma-teal: #14595B;
+  --erma-teal-dark: #0E4446;
+  --erma-teal-light: #2A8285;
+
+  --erma-arena: #F7D5AF;
+  --erma-arena-dark: #E8D3B4;
+  --erma-lino: #FBF3E7;
+
+  --erma-tinta: #141413;
+  --erma-tinta-soft: #2E2C29;
+  --erma-muted: #6B6A66;
+  --erma-blanco: #FFFFFF;
+
+  /* Roles — modo claro */
+  --bg-page: var(--erma-lino);
+  --bg-surface: var(--erma-blanco);
+  --bg-band: var(--erma-arena);
+  --bg-chrome: var(--erma-teal);
+
+  --text-primary: var(--erma-tinta);
+  --text-secondary: var(--erma-muted);
+  --text-on-chrome: var(--erma-arena);
+  --text-accent: var(--erma-vino);
+
+  --border-hairline: var(--erma-arena-dark);
+  --border-strong: #D6BC96;
+
+  --action-bg: var(--erma-vino);
+  --action-bg-hover: var(--erma-vino-dark);
+  --action-text: var(--erma-blanco);
+  --focus-ring: var(--erma-teal-light);
+
+  /* Estados (chips, badges, alertas) */
+  --state-ok: #2F7A55;
+  --state-ok-bg: #E4F0E8;
+  --state-warn: #8A6212;
+  --state-warn-bg: #F8EAD0;
+  --state-danger: var(--erma-vino);
+  --state-danger-bg: #F6E0E0;
+  --state-info: var(--erma-teal);
+  --state-info-bg: #DDEAEA;
+
+  --radius: 10px;
+  --radius-lg: 16px;
+}
+
+/* Modo oscuro — el teal se vuelve el fondo, la arena el texto */
+:root[data-theme="dark"] {
+  --bg-page: #0C2E30;
+  --bg-surface: #11393B;
+  --bg-band: var(--erma-teal-dark);
+  --bg-chrome: #0A2527;
+
+  --text-primary: var(--erma-lino);
+  --text-secondary: #A9BFBF;
+  --text-on-chrome: var(--erma-arena);
+  --text-accent: #E08A8F;
+
+  --border-hairline: #1C4B4D;
+  --border-strong: #2A6467;
+
+  --action-bg: #A6353E;
+  --action-bg-hover: #BC4650;
+
+  --state-ok-bg: #14382A;
+  --state-warn-bg: #3A2E12;
+  --state-danger-bg: #3B1A1D;
+  --state-info-bg: #10403F;
+}
+
+/* Tailwind v4 — expone los tokens como utilidades (bg-vino, text-teal, etc.) */
+@theme {
+  --color-vino: #8F2A32;
+  --color-vino-dark: #6E1F26;
+  --color-vino-light: #B85A5F;
+  --color-teal: #14595B;
+  --color-teal-dark: #0E4446;
+  --color-teal-light: #2A8285;
+  --color-arena: #F7D5AF;
+  --color-lino: #FBF3E7;
+  --color-tinta: #141413;
+  --color-muted: #6B6A66;
+}

@@ -1,0 +1,312 @@
+@import "tailwindcss";
+/* Paleta 2026 de ERMA Aegis (vino / arena / teal). Trae los tokens de marca,
+   los roles (--bg-page, --text-primary, --action-bg…), los estados semánticos
+   y su bloque [data-theme="dark"]. Va ANTES del CSS de la app: todo lo de
+   abajo se define a partir de estos roles. */
+@import "./erma-tokens.css";
+
+/* Modo oscuro por clase (.dark en <html>), no por prefers-color-scheme.
+   El mismo botón pone `data-theme="dark"`, que es lo que invierte los roles
+   de erma-tokens.css; la clase sigue existiendo para las variantes `dark:` y
+   los overrides de abajo. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Repaletización 2026-09-08: los NOMBRES de los tokens no cambian —
+     ink/clay/cream/sand/muted siguen significando texto / acento /
+     página / divisor / secundario— para no tocar ni una clase en los
+     componentes. Los VALORES ahora son los ROLES de erma-tokens.css, que se
+     invierten solos con [data-theme="dark"]. Por eso aquí ya no hay hex. */
+  --color-ink: var(--text-primary);          /* tinta */
+  --color-muted: var(--text-secondary);
+  --color-cream: var(--bg-page);             /* lino */
+  --color-white: var(--bg-surface);          /* tarjetas (en oscuro, superficie) */
+  --color-sand: var(--border-hairline);
+  --color-fuerte: var(--border-strong);      /* botón secundario, bordes marcados */
+
+  /* Vino es el ÚNICO color de acción: primario, enlaces, activo, foco. Desde
+     la paleta nueva `clay` y `clay-dark` ya no se reparten "marca" vs
+     "superficie AA" —vino sobre blanco da 8.3:1— sino acción vs hover. */
+  --color-clay: var(--action-bg);            /* vino */
+  --color-clay-dark: var(--action-bg-hover); /* vino-dark: hover / pressed / destructivo */
+
+  /* Teal reemplaza a ink como color de las superficies OSCURAS (cabecera,
+     tooltips, toasts, controles segmentados); tinta se queda solo como texto. */
+  --color-chrome: var(--bg-chrome);
+  --color-chrome-text: var(--text-on-chrome); /* arena */
+  --color-band: var(--bg-band);              /* arena: cabeceras de tabla, bandas */
+
+  /* Estados (chips, badges, alertas): tokens semánticos, ni vino ni teal,
+     para que estado y marca no se confundan. */
+  --color-ok: var(--state-ok);
+  --color-ok-bg: var(--state-ok-bg);
+  --color-warn: var(--state-warn);
+  --color-warn-bg: var(--state-warn-bg);
+  --color-danger: var(--state-danger);
+  --color-danger-bg: var(--state-danger-bg);
+  --color-info: var(--state-info);
+  --color-info-bg: var(--state-info-bg);
+
+  /* Velo de modales y drawers. Token propio y no `bg-ink/40`: ink se
+     invierte en oscuro, así que el velo ACLARABA la pantalla en vez de
+     oscurecerla — exactamente al revés de lo que debe hacer. */
+  --color-velo: rgba(20, 20, 19, 0.45);
+}
+
+:root {
+  /* Anillo de foco: teal-light (brief §3.1.7) sobre las superficies claras. */
+  --foco: var(--focus-ring);
+}
+
+/* ------------------------------------------------------------------ */
+/* Modo oscuro. Los roles ya los invierte erma-tokens.css vía             */
+/* [data-theme="dark"]; aquí queda lo que ese archivo no cubre.          */
+/* ------------------------------------------------------------------ */
+:root.dark {
+  --color-velo: rgba(0, 0, 0, 0.6); /* sobre fondo oscuro hace falta más velo */
+  /* Teal-light sobre las superficies teal-oscuras da 1.9:1: el anillo pasa
+     a arena, que es el acento legible sobre oscuro. */
+  --foco: var(--erma-arena);
+  /* Texto de los chips de estado en oscuro. Los tokens dejan --state-* fijos
+     y solo invierten el fondo, y así el texto queda a 1.4–2.5:1 sobre el
+     fondo oscuro (medido). Estos cuatro dan 5.8–7.1:1 sobre su *-bg oscuro. */
+  --color-ok: #7fd1a4;
+  --color-warn: #e2b85c;
+  --color-danger: var(--text-accent);
+  --color-info: #7fc4c6;
+  color-scheme: dark;
+}
+/* Vino como TEXTO en oscuro: --action-bg (#A6353E) sirve para el fondo de
+   los botones (blanco encima 6.6:1) pero sobre la superficie oscura queda
+   a 1.5:1 como texto; el rol --text-accent es el que lee. Mismo trato para
+   el borde. OJO: apunta a la clase base y a su hover; `text-clay/70` y
+   demás variantes con opacidad NO lo heredan. */
+.dark .text-clay,
+.dark .hover\:text-clay:hover,
+.dark .group-hover\:text-clay:is(:where(.group):hover *) {
+  color: var(--text-accent);
+}
+.dark .border-clay {
+  border-color: var(--text-accent);
+}
+/* Botones de color: el texto se mantiene claro (no sigue el flip de white). */
+.dark .text-white {
+  color: #f4f4f5;
+}
+
+/* ------------------------------------------------------------------ */
+/* Variantes con OPACIDAD — LEE ESTO ANTES DE AÑADIR UNA REGLA AQUÍ.    */
+/*                                                                      */
+/* Tailwind 4 compila                                                   */
+/*   .text-ink/60 → color-mix(in srgb, <hex> 60%, transparent)          */
+/*   @supports (color-mix in lab) → color-mix(in oklab, var(--color-ink)*/
+/*                                            60%, transparent)         */
+/* o sea que en todo navegador moderno la utilidad SÍ sigue el flip de  */
+/* tema sola, y casi todas las reglas de abajo repiten el color que el  */
+/* var() ya resolvería. (El fallback literal solo aplica en navegadores */
+/* sin color-mix; ahí el bloque sigue haciendo falta.)                  */
+/*                                                                      */
+/* Norma vigente para código nuevo:                                     */
+/*  · Tokens con opacidad (text-ink/60, bg-ink/10…): NO necesitan regla.*/
+/*  · Lo que SÍ necesita `dark:` son los tonos literales de Tailwind    */
+/*    (text-green-700, bg-red-100…) y los hex a mano.                   */
+/*  · Y OJO: los overrides de arriba apuntan a la clase base, no a sus  */
+/*    variantes — `focus:bg-chrome` o `hover:text-white` NO los heredan.*/
+/*                                                                      */
+/* El bloque no se borra de golpe: al salir de aquí una regla pierde la */
+/* prioridad de "fuera de @layer", que es lo que hoy sostiene algunos   */
+/* casos. Se limpia archivo a archivo, con grep de la utilidad = 0.     */
+/* Bases (paleta 2026 en oscuro): ink claro = lino 251,243,231 ·        */
+/* superficie 17,57,59 · página 12,46,48                                */
+/* ------------------------------------------------------------------ */
+
+/* Texto atenuado (ink con opacidad) → lino.
+   Fuera .text-ink/30, .text-ink/35 y .hover:text-ink/50: la rampa de la
+   Fase 3 subió esos textos al piso legible (/60) y su grep quedó en cero.
+   Las que siguen aquí sí tienen usos vivos — comprobar con grep antes de
+   borrar ninguna más. */
+.dark .text-ink\/40, .dark .placeholder\:text-ink\/40::placeholder { color: rgba(251,243,231,.40); }
+.dark .text-ink\/50 { color: rgba(251,243,231,.50); }
+.dark .text-ink\/60, .dark .placeholder\:text-ink\/60::placeholder { color: rgba(251,243,231,.60); }
+.dark .text-ink\/70 { color: rgba(251,243,231,.70); }
+.dark .text-ink\/80 { color: rgba(251,243,231,.80); }
+.dark .text-ink\/90 { color: rgba(251,243,231,.90); }
+
+/* Bordes (ink con opacidad) → lino */
+.dark .border-ink\/5  { border-color: rgba(251,243,231,.05); }
+.dark .border-ink\/10 { border-color: rgba(251,243,231,.10); }
+.dark .border-ink\/15 { border-color: rgba(251,243,231,.15); }
+.dark .border-ink\/20 { border-color: rgba(251,243,231,.20); }
+.dark .border-ink\/25, .dark .hover\:border-ink\/25:hover { border-color: rgba(251,243,231,.25); }
+.dark .border-ink\/30 { border-color: rgba(251,243,231,.30); }
+
+/* Fondos sutiles (ink con poca opacidad: chips, hover) → tinte claro visible */
+.dark .bg-ink\/5,  .dark .hover\:bg-ink\/5:hover  { background-color: rgba(251,243,231,.05); }
+.dark .bg-ink\/10, .dark .hover\:bg-ink\/10:hover { background-color: rgba(251,243,231,.10); }
+.dark .bg-ink\/15 { background-color: rgba(251,243,231,.15); }
+/* bg-ink/30..90 quedan oscuros a propósito (velos de modal/overlays). */
+
+/* Superficies translúcidas blancas → superficie oscura translúcida */
+.dark .bg-white\/15 { background-color: rgba(17,57,59,.15); }
+.dark .bg-white\/25, .dark .hover\:bg-white\/25:hover { background-color: rgba(17,57,59,.25); }
+.dark .bg-white\/60, .dark .hover\:bg-white\/60:hover { background-color: rgba(17,57,59,.60); }
+.dark .bg-white\/70, .dark .hover\:bg-white\/70:hover { background-color: rgba(17,57,59,.70); }
+
+/* Tintes de página (cream con opacidad: filas alternas, hover) → página */
+.dark .bg-cream\/40 { background-color: rgba(12,46,48,.40); }
+.dark .bg-cream\/50, .dark .hover\:bg-cream\/50:hover { background-color: rgba(12,46,48,.50); }
+.dark .bg-cream\/60 { background-color: rgba(12,46,48,.60); }
+.dark .bg-cream\/70, .dark .hover\:bg-cream\/70:hover { background-color: rgba(12,46,48,.70); }
+
+/* Texto/anillo blancos con opacidad → se mantienen claros */
+.dark .text-white\/50 { color: rgba(244,244,245,.50); }
+.dark .text-white\/60 { color: rgba(244,244,245,.60); }
+.dark .ring-ink\/40 { --tw-ring-color: rgba(251,243,231,.40); }
+.dark .ring-white\/70, .dark .focus-visible\:ring-white\/70:focus-visible { --tw-ring-color: rgba(244,244,245,.70); }
+
+/* Anillo de foco: los ~80 usos de `focus-visible:ring-clay/50` se remapean
+   aquí al token --foco (teal-light en claro, arena en oscuro), 2px de
+   separación sobre el fondo de página, sin tocar un solo componente. El
+   :not() deja fuera el único anillo interior del repo, donde el offset lo
+   partiría por la mitad. */
+.focus-visible\:ring-clay\/50:focus-visible:not(.focus-visible\:ring-inset) {
+  --tw-ring-color: var(--foco);
+  --tw-ring-offset-width: 2px;
+  --tw-ring-offset-color: var(--color-cream);
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+}
+
+/* Checkboxes con el color de la marca (sin apariencia del OS). */
+input[type="checkbox"] {
+  accent-color: var(--color-clay);
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Sin flechitas (spinners) en los campos numéricos: se escriben a mano. */
+input[type="number"] {
+  appearance: textfield;
+  -moz-appearance: textfield;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* iOS hace auto-zoom (y no lo deshace al cerrar el teclado) al enfocar
+   campos con letra <16px. En pantallas chicas se fuerza 16px en los
+   controles de formulario; !important porque debe ganarle a las
+   utilidades text-sm/text-xs de Tailwind (selectores de clase). */
+@media (max-width: 767px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Animaciones de la UI (popovers, toasts, panel lateral, flash de guardado). */
+@keyframes aparecer {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes subir {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes deslizarIzq {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+@keyframes fundido {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes flashGuardado {
+  0% { background-color: color-mix(in srgb, var(--state-ok) 25%, transparent); }
+  100% { background-color: transparent; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Listas largas de tarjetas: pintar solo lo que se está mirando.      */
+/*                                                                    */
+/* Comercial no pagina en el teléfono: sus dos vistas montan LAS 415   */
+/* cotizaciones del historial de golpe. El embudo las reparte en cinco */
+/* columnas dentro del carrusel horizontal (24,752 nodos, 125,000 px   */
+/* de alto entre los cuatro scrollers) y la lista de tarjetas las pone */
+/* una debajo de otra en la página (23,656 nodos, 113,454 px). En el   */
+/* Mac eso cuesta 45–48 ms de layout por invalidación; en el iPhone de */
+/* Paul son ~230 ms, y la grabación del 2026-09-09 lo enseña sin       */
+/* ambigüedad: al bajar con el pulgar la pantalla se queda quieta 14   */
+/* fotogramas de cada 17 —una sacudida cada 233 ms— y las tarjetas     */
+/* asoman a medio pintar. Ese blanco es el rasterizador de iOS         */
+/* quedándose atrás, no la red.                                        */
+/*                                                                    */
+/* `content-visibility: auto` le dice al navegador que puede saltarse  */
+/* layout, estilo y pintado de la tarjeta mientras esté fuera de la    */
+/* ventana. La tarjeta SIGUE en el DOM: el arrastre del embudo, la     */
+/* selección en lote y los anclajes funcionan igual. El mismo layout   */
+/* medido con esto puesto baja de 45 ms a 4.                           */
+/*                                                                    */
+/* Las dos alturas son las medias REALES de cada lista, y van sobre la */
+/* caja de CONTENIDO: el `p-3` y el borde se suman encima. Con `auto`  */
+/* delante, el navegador se queda con la altura de verdad en cuanto    */
+/* mide la tarjeta una vez, así que la cifra solo manda en la primera  */
+/* pasada y la barra de scroll se asienta enseguida.                   */
+.ficha-diferida,
+.tarjeta-diferida {
+  content-visibility: auto;
+  /* Imprescindible, y NO es un detalle de estilo: la columna del embudo
+     es `flex-col` y su contenido desborda por definición (18,668 px
+     dentro de 524), así que el reparto flex está siempre en negativo y
+     encoge a los hijos hasta su `min-height: auto`. Sin contención ese
+     mínimo es el alto natural del texto y no se nota; con ella el
+     contenido mide 0 y las 415 fichas se aplastaban a los 26 px del
+     padding. */
+  flex-shrink: 0;
+}
+
+/* 258px: 18,148 px de fichas entre las 64 de Enviada, descontados el
+   `p-2` de la columna y los 63 huecos del `gap-2`. */
+.ficha-diferida { contain-intrinsic-size: auto 258px; }
+/* 235px: 108,474 px de tarjetas entre las 416 de la lista, descontados
+   los 415 huecos del `space-y-3`. */
+.tarjeta-diferida { contain-intrinsic-size: auto 235px; }
+
+/* La contrapartida del ahorro: `content-visibility` implica
+   `contain: paint`, que RECORTA lo que se salga del borde de la tarjeta.
+   Dentro hay tres cosas que se salen a propósito:
+     · los `Tooltip` de copiar el acto y de abrir PanamaCompra, que son
+       `absolute`, `whitespace-nowrap` y mucho más anchos que su icono
+       («Ver 2026-0-30-01-08-CL-005352 en PanamaCompra»);
+     · el `Popover` del menú «⋯», que cae por debajo del botón;
+     · el desplegable del `<select>` de estado — ese no, que lo pinta el
+       sistema fuera de la página y nunca se recorta.
+   Soltar la contención mientras la tarjeta está señalada o con algo
+   abierto dentro lo resuelve sin costar nada: una tarjeta en ese estado
+   está por definición a la vista, así que no había pintado que ahorrar.
+   El `:has` es el que sostiene el caso táctil, donde no hay hover y el
+   foco del botón no es de fiar: el popover solo existe en el DOM cuando
+   está abierto (`Popover` devuelve null si no), así que basta con
+   preguntar por él. */
+.ficha-diferida:hover,
+.ficha-diferida:focus-within,
+.tarjeta-diferida:hover,
+.tarjeta-diferida:focus-within,
+.ficha-diferida:has([role="menu"]),
+.tarjeta-diferida:has([role="menu"]) {
+  content-visibility: visible;
+}

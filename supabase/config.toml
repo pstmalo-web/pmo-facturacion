@@ -1,0 +1,21 @@
+# Stack local de Supabase para el repo de facturación (`npx supabase start`).
+# Solo lo imprescindible; el resto toma los valores por defecto del CLI.
+project_id = "pmo-facturacion"
+
+[api]
+schemas = ["public"]
+
+[db]
+major_version = 17
+
+[db.seed]
+enabled = true
+sql_paths = ["./seed.sql"]
+
+[auth]
+site_url = "http://localhost:3000"
+enable_signup = false
+
+[auth.email]
+enable_signup = false
+enable_confirmations = false

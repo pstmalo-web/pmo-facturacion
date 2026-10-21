@@ -1,0 +1,4418 @@
+[
+  {
+    "codigo": "0-0-0",
+    "provincia": "INVALIDO",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "1-0-0",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "1-1-0",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "1-1-1",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "BOCAS DEL TORO (CABECERA)"
+  },
+  {
+    "codigo": "1-1-2",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "BASTIMENTOS"
+  },
+  {
+    "codigo": "1-1-3",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "CAUCHERO"
+  },
+  {
+    "codigo": "1-1-4",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "PUNTA LAUREL"
+  },
+  {
+    "codigo": "1-1-5",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "BOCAS DEL TORO",
+    "corregimiento": "TIERRA OSCURA"
+  },
+  {
+    "codigo": "1-2-0",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "1-2-1",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "CHANGUINOLA (CABECERA)"
+  },
+  {
+    "codigo": "1-2-3",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "GUABITO"
+  },
+  {
+    "codigo": "1-2-4",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "TERIBE"
+  },
+  {
+    "codigo": "1-2-5",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "VALLE DEL RISCO"
+  },
+  {
+    "codigo": "1-2-6",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "EL EMPALME"
+  },
+  {
+    "codigo": "1-2-7",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHANGUINOLA",
+    "corregimiento": "LAS TABLAS"
+  },
+  {
+    "codigo": "1-3-0",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "1-3-1",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "CHIRIQUI GRANDE (CABECERA)"
+  },
+  {
+    "codigo": "1-3-2",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "MIRAMAR"
+  },
+  {
+    "codigo": "1-3-3",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "PUNTA PEÑA"
+  },
+  {
+    "codigo": "1-3-4",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "PUNTA ROBALO"
+  },
+  {
+    "codigo": "1-3-5",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "RAMBALA"
+  },
+  {
+    "codigo": "1-3-6",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "CHIRIQUI GRANDE",
+    "corregimiento": "BAJO DEL CEDRO"
+  },
+  {
+    "codigo": "1-4-1",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "ALMIRANTE (CABECERA)"
+  },
+  {
+    "codigo": "1-4-2",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "BARRIADA GUAYMI"
+  },
+  {
+    "codigo": "1-4-3",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "BARRIO FRANCES"
+  },
+  {
+    "codigo": "1-4-4",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "NANCE DEL RISCO"
+  },
+  {
+    "codigo": "1-4-5",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "VALLE DE AGUAS ARRIBA"
+  },
+  {
+    "codigo": "1-4-6",
+    "provincia": "BOCAS DEL TORO",
+    "distrito": "ALMIRANTE",
+    "corregimiento": "VALLE DE RISCO"
+  },
+  {
+    "codigo": "2-0-0",
+    "provincia": "COCLE",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-1-0",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-1-1",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "AGUADULCE (CABECERA)"
+  },
+  {
+    "codigo": "2-1-2",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "EL CRISTO"
+  },
+  {
+    "codigo": "2-1-3",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "EL ROBLE"
+  },
+  {
+    "codigo": "2-1-4",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "POCRI"
+  },
+  {
+    "codigo": "2-1-5",
+    "provincia": "COCLE",
+    "distrito": "AGUADULCE",
+    "corregimiento": "BARRIOS UNIDOS"
+  },
+  {
+    "codigo": "2-2-0",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-2-1",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "ANTON (CABECERA)"
+  },
+  {
+    "codigo": "2-2-2",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "CABUYA"
+  },
+  {
+    "codigo": "2-2-3",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "EL CHIRU"
+  },
+  {
+    "codigo": "2-2-4",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "EL RETIRO"
+  },
+  {
+    "codigo": "2-2-5",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "EL VALLE"
+  },
+  {
+    "codigo": "2-2-6",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "JUAN DIAZ"
+  },
+  {
+    "codigo": "2-2-7",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "RIO HATO"
+  },
+  {
+    "codigo": "2-2-8",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "SAN JUAN DE DIOS"
+  },
+  {
+    "codigo": "2-2-9",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "SANTA RITA"
+  },
+  {
+    "codigo": "2-2-10",
+    "provincia": "COCLE",
+    "distrito": "ANTON",
+    "corregimiento": "CABALLERO"
+  },
+  {
+    "codigo": "2-3-0",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-3-1",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "LA PINTADA (CABECERA)"
+  },
+  {
+    "codigo": "2-3-2",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "EL HARINO"
+  },
+  {
+    "codigo": "2-3-3",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "EL POTRERO"
+  },
+  {
+    "codigo": "2-3-4",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "LLANO GRANDE"
+  },
+  {
+    "codigo": "2-3-5",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "PIEDRAS GORDAS"
+  },
+  {
+    "codigo": "2-3-6",
+    "provincia": "COCLE",
+    "distrito": "LA PINTADA",
+    "corregimiento": "LAS LOMAS"
+  },
+  {
+    "codigo": "2-4-0",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-4-1",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "NATA (CABECERA)"
+  },
+  {
+    "codigo": "2-4-2",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "CAPELLANIA"
+  },
+  {
+    "codigo": "2-4-3",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "EL CAÑO"
+  },
+  {
+    "codigo": "2-4-4",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "GUZMAN"
+  },
+  {
+    "codigo": "2-4-5",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "LAS HUACAS"
+  },
+  {
+    "codigo": "2-4-6",
+    "provincia": "COCLE",
+    "distrito": "NATA",
+    "corregimiento": "TOZA"
+  },
+  {
+    "codigo": "2-5-0",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-5-1",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "OLA (CABECERA)"
+  },
+  {
+    "codigo": "2-5-2",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "EL COPE"
+  },
+  {
+    "codigo": "2-5-3",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "EL PALMAR"
+  },
+  {
+    "codigo": "2-5-4",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "EL PICACHO"
+  },
+  {
+    "codigo": "2-5-5",
+    "provincia": "COCLE",
+    "distrito": "OLA",
+    "corregimiento": "LA PAVA"
+  },
+  {
+    "codigo": "2-6-0",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "2-6-1",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "PENONOME (CABECERA)"
+  },
+  {
+    "codigo": "2-6-2",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "CAÑAVERAL"
+  },
+  {
+    "codigo": "2-6-3",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "COCLE"
+  },
+  {
+    "codigo": "2-6-4",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "CHIGUIRI ARRIBA"
+  },
+  {
+    "codigo": "2-6-5",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "EL COCO"
+  },
+  {
+    "codigo": "2-6-6",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "PAJONAL"
+  },
+  {
+    "codigo": "2-6-7",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "RIO GRANDE"
+  },
+  {
+    "codigo": "2-6-8",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "RIO INDIO"
+  },
+  {
+    "codigo": "2-6-9",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "TOABRE"
+  },
+  {
+    "codigo": "2-6-10",
+    "provincia": "COCLE",
+    "distrito": "PENONOME",
+    "corregimiento": "TULU"
+  },
+  {
+    "codigo": "3-0-0",
+    "provincia": "COLON",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-1-0",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-1-1",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "BARRIO NORTE"
+  },
+  {
+    "codigo": "3-1-2",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "BARRIO SUR"
+  },
+  {
+    "codigo": "3-1-3",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "BUENA VISTA"
+  },
+  {
+    "codigo": "3-1-4",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "CATIVA"
+  },
+  {
+    "codigo": "3-1-5",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "CIRICITO"
+  },
+  {
+    "codigo": "3-1-6",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "CRISTOBAL"
+  },
+  {
+    "codigo": "3-1-7",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "ESCOBAL"
+  },
+  {
+    "codigo": "3-1-8",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "LIMON"
+  },
+  {
+    "codigo": "3-1-9",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "NUEVA PROVIDENCIA"
+  },
+  {
+    "codigo": "3-1-10",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "PUERTO PILON"
+  },
+  {
+    "codigo": "3-1-11",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "SABANITAS"
+  },
+  {
+    "codigo": "3-1-12",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "SALAMANCA"
+  },
+  {
+    "codigo": "3-1-13",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "SAN JUAN"
+  },
+  {
+    "codigo": "3-1-14",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "SANTA ROSA"
+  },
+  {
+    "codigo": "3-1-15",
+    "provincia": "COLON",
+    "distrito": "COLON",
+    "corregimiento": "CRISTOBAL ESTE"
+  },
+  {
+    "codigo": "3-2-0",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-2-1",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "NUEVO CHAGRES (CABECERA)"
+  },
+  {
+    "codigo": "3-2-2",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "ACHIOTE"
+  },
+  {
+    "codigo": "3-2-3",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "EL GUABO"
+  },
+  {
+    "codigo": "3-2-4",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "LA ENCANTADA"
+  },
+  {
+    "codigo": "3-2-5",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "PALMAS BELLAS"
+  },
+  {
+    "codigo": "3-2-6",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "PIÑA"
+  },
+  {
+    "codigo": "3-2-7",
+    "provincia": "COLON",
+    "distrito": "CHAGRES",
+    "corregimiento": "SALUD"
+  },
+  {
+    "codigo": "3-3-0",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-3-1",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "MIGUEL DE LA BORDA (CABECERA)"
+  },
+  {
+    "codigo": "3-3-2",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "COCLE DEL NORTE"
+  },
+  {
+    "codigo": "3-3-3",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "EL GUASIMO"
+  },
+  {
+    "codigo": "3-3-4",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "GOBEA"
+  },
+  {
+    "codigo": "3-3-5",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "RIO INDIO"
+  },
+  {
+    "codigo": "3-3-6",
+    "provincia": "COLON",
+    "distrito": "DONOSO",
+    "corregimiento": "SAN JOSE DEL GENERAL"
+  },
+  {
+    "codigo": "3-4-0",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-4-1",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "PORTOBELO (CABECERA)"
+  },
+  {
+    "codigo": "3-4-2",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "CACIQUE"
+  },
+  {
+    "codigo": "3-4-3",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "GARROTE"
+  },
+  {
+    "codigo": "3-4-4",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "ISLA GRANDE"
+  },
+  {
+    "codigo": "3-4-5",
+    "provincia": "COLON",
+    "distrito": "PORTOBELO",
+    "corregimiento": "MARIA CHIQUITA"
+  },
+  {
+    "codigo": "3-5-0",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "3-5-1",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "PALENQUE (CABECERA)"
+  },
+  {
+    "codigo": "3-5-2",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "CUANGO"
+  },
+  {
+    "codigo": "3-5-3",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "MIRAMAR"
+  },
+  {
+    "codigo": "3-5-4",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "NOMBRE DE DIOS"
+  },
+  {
+    "codigo": "3-5-5",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "PALMIRA"
+  },
+  {
+    "codigo": "3-5-6",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "PLAYA CHIQUITA"
+  },
+  {
+    "codigo": "3-5-7",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "SANTA ISABEL"
+  },
+  {
+    "codigo": "3-5-8",
+    "provincia": "COLON",
+    "distrito": "SANTA ISABEL",
+    "corregimiento": "VIENTO FRIO"
+  },
+  {
+    "codigo": "4-0-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-1-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-1-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "ALANJE (CABECERA)"
+  },
+  {
+    "codigo": "4-1-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "DIVALA"
+  },
+  {
+    "codigo": "4-1-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "EL TEJAR"
+  },
+  {
+    "codigo": "4-1-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "GUARUMAL"
+  },
+  {
+    "codigo": "4-1-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "PALO GRANDE"
+  },
+  {
+    "codigo": "4-1-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "QUEREVALO"
+  },
+  {
+    "codigo": "4-1-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "SANTO TOMAS"
+  },
+  {
+    "codigo": "4-1-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "CANTA GALLO"
+  },
+  {
+    "codigo": "4-1-9",
+    "provincia": "CHIRIQUI",
+    "distrito": "ALANJE",
+    "corregimiento": "NUEVO MEXICO"
+  },
+  {
+    "codigo": "4-2-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-2-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "PUERTO ARMUELLES (CABECERA)"
+  },
+  {
+    "codigo": "4-2-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "LIMONES"
+  },
+  {
+    "codigo": "4-2-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "PROGRESO"
+  },
+  {
+    "codigo": "4-2-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "BACO"
+  },
+  {
+    "codigo": "4-2-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "BARU",
+    "corregimiento": "RODOLFO AGUILAR DELGADO"
+  },
+  {
+    "codigo": "4-3-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-3-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "BOQUERON (CABECERA)"
+  },
+  {
+    "codigo": "4-3-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "BAGALA"
+  },
+  {
+    "codigo": "4-3-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "CORDILLERA"
+  },
+  {
+    "codigo": "4-3-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "GUABAL"
+  },
+  {
+    "codigo": "4-3-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "GUAYABAL"
+  },
+  {
+    "codigo": "4-3-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "PARAISO"
+  },
+  {
+    "codigo": "4-3-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "PEDREGAL"
+  },
+  {
+    "codigo": "4-3-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUERON",
+    "corregimiento": "TIJERAS"
+  },
+  {
+    "codigo": "4-4-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-4-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "BAJO BOQUETE (CABECERA)"
+  },
+  {
+    "codigo": "4-4-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "CALDERA"
+  },
+  {
+    "codigo": "4-4-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "PALMIRA"
+  },
+  {
+    "codigo": "4-4-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "ALTO BOQUETE"
+  },
+  {
+    "codigo": "4-4-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "JARAMILLO"
+  },
+  {
+    "codigo": "4-4-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "BOQUETE",
+    "corregimiento": "LOS NARANJOS"
+  },
+  {
+    "codigo": "4-5-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-5-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "LA CONCEPCION (CABECERA)"
+  },
+  {
+    "codigo": "4-5-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "ASERRIO DE GARICHE"
+  },
+  {
+    "codigo": "4-5-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "BUGABA"
+  },
+  {
+    "codigo": "4-5-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "GOMEZ"
+  },
+  {
+    "codigo": "4-5-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "LA ESTRELLA"
+  },
+  {
+    "codigo": "4-5-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "SAN ANDRES"
+  },
+  {
+    "codigo": "4-5-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "SANTA MARTA"
+  },
+  {
+    "codigo": "4-5-9",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "SANTA ROSA"
+  },
+  {
+    "codigo": "4-5-10",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "SANTO DOMINGO"
+  },
+  {
+    "codigo": "4-5-11",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "SORTOVA"
+  },
+  {
+    "codigo": "4-5-13",
+    "provincia": "CHIRIQUI",
+    "distrito": "BUGABA",
+    "corregimiento": "EL BONGO"
+  },
+  {
+    "codigo": "4-6-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-6-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "DAVID (CABECERA)"
+  },
+  {
+    "codigo": "4-6-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "BIJAGUAL"
+  },
+  {
+    "codigo": "4-6-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "COCHEA"
+  },
+  {
+    "codigo": "4-6-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "CHIRIQUI"
+  },
+  {
+    "codigo": "4-6-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "GUACA"
+  },
+  {
+    "codigo": "4-6-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "LAS LOMAS"
+  },
+  {
+    "codigo": "4-6-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "PEDREGAL"
+  },
+  {
+    "codigo": "4-6-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "SAN CARLOS"
+  },
+  {
+    "codigo": "4-6-9",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "SAN PABLO NUEVO"
+  },
+  {
+    "codigo": "4-6-10",
+    "provincia": "CHIRIQUI",
+    "distrito": "DAVID",
+    "corregimiento": "SAN PABLO VIEJO"
+  },
+  {
+    "codigo": "4-7-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-7-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "DOLEGA (CABECERA)"
+  },
+  {
+    "codigo": "4-7-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "DOS RIOS"
+  },
+  {
+    "codigo": "4-7-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "LOS ANASTACIOS"
+  },
+  {
+    "codigo": "4-7-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "POTRERILLOS"
+  },
+  {
+    "codigo": "4-7-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "POTRERILLOS ABAJO"
+  },
+  {
+    "codigo": "4-7-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "ROVIRA"
+  },
+  {
+    "codigo": "4-7-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "TINAJAS"
+  },
+  {
+    "codigo": "4-7-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "DOLEGA",
+    "corregimiento": "LOS ALGARRROBOS"
+  },
+  {
+    "codigo": "4-8-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-8-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "GUALACA (CABECERA)"
+  },
+  {
+    "codigo": "4-8-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "HORNITO"
+  },
+  {
+    "codigo": "4-8-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "LOS ANGELES"
+  },
+  {
+    "codigo": "4-8-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "PAJA DE SOMBRERO"
+  },
+  {
+    "codigo": "4-8-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "GUALACA",
+    "corregimiento": "RINCON"
+  },
+  {
+    "codigo": "4-9-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-9-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "REMEDIOS (CABECERA)"
+  },
+  {
+    "codigo": "4-9-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "EL NANCITO"
+  },
+  {
+    "codigo": "4-9-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "EL PORVENIR"
+  },
+  {
+    "codigo": "4-9-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "EL PUERTO"
+  },
+  {
+    "codigo": "4-9-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "REMEDIOS",
+    "corregimiento": "SANTA LUCIA"
+  },
+  {
+    "codigo": "4-10-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-10-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "RIO SERENO (CABECERA)"
+  },
+  {
+    "codigo": "4-10-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "BREÑON"
+  },
+  {
+    "codigo": "4-10-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "CAÑAS GORDAS"
+  },
+  {
+    "codigo": "4-10-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "MONTE LIRIO"
+  },
+  {
+    "codigo": "4-10-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "PLAZA CAISAN"
+  },
+  {
+    "codigo": "4-10-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "SANTA CRUZ"
+  },
+  {
+    "codigo": "4-10-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "DOMINICAL"
+  },
+  {
+    "codigo": "4-10-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "RENACIMIENTO",
+    "corregimiento": "SANTA CLARA"
+  },
+  {
+    "codigo": "4-11-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-11-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "LAS LAJAS (CABECERA)"
+  },
+  {
+    "codigo": "4-11-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "JUAY"
+  },
+  {
+    "codigo": "4-11-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "LAJAS ADENTRO"
+  },
+  {
+    "codigo": "4-11-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "SAN FELIX"
+  },
+  {
+    "codigo": "4-11-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN FELIX",
+    "corregimiento": "SANTA CRUZ"
+  },
+  {
+    "codigo": "4-12-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-12-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "HORCONCITOS (CABECERA)"
+  },
+  {
+    "codigo": "4-12-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "BOCA CHICA"
+  },
+  {
+    "codigo": "4-12-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "BOCA DEL MONTE"
+  },
+  {
+    "codigo": "4-12-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "SAN JUAN"
+  },
+  {
+    "codigo": "4-12-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "SAN LORENZO",
+    "corregimiento": "SAN LORENZO"
+  },
+  {
+    "codigo": "4-13-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-13-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "TOLE (CABECERA)"
+  },
+  {
+    "codigo": "4-13-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "BELLA VISTA"
+  },
+  {
+    "codigo": "4-13-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "CERRO VIEJO"
+  },
+  {
+    "codigo": "4-13-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "EL CRISTO"
+  },
+  {
+    "codigo": "4-13-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "JUSTO FIDEL PALACIOS"
+  },
+  {
+    "codigo": "4-13-6",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "LAJAS DE TOLE"
+  },
+  {
+    "codigo": "4-13-7",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "POTRERO DE CAÑA"
+  },
+  {
+    "codigo": "4-13-8",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "QUEBRADA DE PIEDRA"
+  },
+  {
+    "codigo": "4-13-9",
+    "provincia": "CHIRIQUI",
+    "distrito": "TOLE",
+    "corregimiento": "VELADERO"
+  },
+  {
+    "codigo": "4-14-0",
+    "provincia": "CHIRIQUI",
+    "distrito": "NO DISPONIBLE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "4-15-1",
+    "provincia": "CHIRIQUI",
+    "distrito": "TIERRAS ALTAS",
+    "corregimiento": "CERRO PUNTA"
+  },
+  {
+    "codigo": "4-15-2",
+    "provincia": "CHIRIQUI",
+    "distrito": "TIERRAS ALTAS",
+    "corregimiento": "CUESTA DE PIEDRA"
+  },
+  {
+    "codigo": "4-15-3",
+    "provincia": "CHIRIQUI",
+    "distrito": "TIERRAS ALTAS",
+    "corregimiento": "NUEVA CALIFORNIA"
+  },
+  {
+    "codigo": "4-15-4",
+    "provincia": "CHIRIQUI",
+    "distrito": "TIERRAS ALTAS",
+    "corregimiento": "PASO ANCHO"
+  },
+  {
+    "codigo": "4-15-5",
+    "provincia": "CHIRIQUI",
+    "distrito": "TIERRAS ALTAS",
+    "corregimiento": "VOLCÁN"
+  },
+  {
+    "codigo": "5-0-0",
+    "provincia": "DARIEN",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "5-1-0",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "5-1-1",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "LA PALMA (CABECERA)"
+  },
+  {
+    "codigo": "5-1-2",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "CAMOGANTI"
+  },
+  {
+    "codigo": "5-1-3",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "CHEPIGANA"
+  },
+  {
+    "codigo": "5-1-4",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "GARACHINE"
+  },
+  {
+    "codigo": "5-1-5",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "JAQUE"
+  },
+  {
+    "codigo": "5-1-6",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "PUERTO PIÑA"
+  },
+  {
+    "codigo": "5-1-9",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "SAMBU"
+  },
+  {
+    "codigo": "5-1-10",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "SETEGANTI"
+  },
+  {
+    "codigo": "5-1-11",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "TAIMATI"
+  },
+  {
+    "codigo": "5-1-12",
+    "provincia": "DARIEN",
+    "distrito": "CHEPIGANA",
+    "corregimiento": "TUCUTI"
+  },
+  {
+    "codigo": "5-2-0",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "5-2-1",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "EL REAL DE SANTA MARIA (CABECERA)"
+  },
+  {
+    "codigo": "5-2-2",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "BOCA DE CUPE"
+  },
+  {
+    "codigo": "5-2-3",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "PAYA"
+  },
+  {
+    "codigo": "5-2-4",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "PINOGANA"
+  },
+  {
+    "codigo": "5-2-5",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "PUCURO"
+  },
+  {
+    "codigo": "5-2-6",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "YAPE"
+  },
+  {
+    "codigo": "5-2-7",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "YAVIZA"
+  },
+  {
+    "codigo": "5-2-8",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "METETI"
+  },
+  {
+    "codigo": "5-2-9",
+    "provincia": "DARIEN",
+    "distrito": "PINOGANA",
+    "corregimiento": "COMARCA KUNA DE WARGANDI"
+  },
+  {
+    "codigo": "5-3-1",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "AGUA FRIA"
+  },
+  {
+    "codigo": "5-3-2",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "CUCUNATI"
+  },
+  {
+    "codigo": "5-3-3",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "RIO CONGO"
+  },
+  {
+    "codigo": "5-3-4",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "CONGO ARRIBA"
+  },
+  {
+    "codigo": "5-3-5",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "RIO IGLESIAS"
+  },
+  {
+    "codigo": "5-3-6",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "SANTA FE"
+  },
+  {
+    "codigo": "5-3-7",
+    "provincia": "DARIEN",
+    "distrito": "SANTA FE",
+    "corregimiento": "ZAPALLAL"
+  },
+  {
+    "codigo": "6-0-0",
+    "provincia": "HERRERA",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-1-0",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-1-1",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "CHITRE (CABECERA)"
+  },
+  {
+    "codigo": "6-1-2",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "LA ARENA"
+  },
+  {
+    "codigo": "6-1-3",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "MONAGRILLO"
+  },
+  {
+    "codigo": "6-1-4",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "LLANO BONITO"
+  },
+  {
+    "codigo": "6-1-5",
+    "provincia": "HERRERA",
+    "distrito": "CHITRE",
+    "corregimiento": "SAN JUAN BAUTISTA"
+  },
+  {
+    "codigo": "6-2-0",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-2-1",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "LAS MINAS (CABECERA)"
+  },
+  {
+    "codigo": "6-2-2",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "CHEPO"
+  },
+  {
+    "codigo": "6-2-3",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "CHUMICAL"
+  },
+  {
+    "codigo": "6-2-4",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "EL TORO"
+  },
+  {
+    "codigo": "6-2-5",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "LEONES"
+  },
+  {
+    "codigo": "6-2-6",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "QUEBRADA DEL ROSARIO"
+  },
+  {
+    "codigo": "6-2-7",
+    "provincia": "HERRERA",
+    "distrito": "LAS MINAS",
+    "corregimiento": "QUEBRADA EL CIPRIAN"
+  },
+  {
+    "codigo": "6-3-0",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-3-1",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LOS POZOS (CABECERA)"
+  },
+  {
+    "codigo": "6-3-2",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "CAPURI"
+  },
+  {
+    "codigo": "6-3-3",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "EL CALABACITO"
+  },
+  {
+    "codigo": "6-3-4",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "EL CEDRO"
+  },
+  {
+    "codigo": "6-3-5",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LA ARENA"
+  },
+  {
+    "codigo": "6-3-6",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LA PITALOSA"
+  },
+  {
+    "codigo": "6-3-7",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LOS CERRITOS"
+  },
+  {
+    "codigo": "6-3-8",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LOS CERROS DE PAJA"
+  },
+  {
+    "codigo": "6-3-9",
+    "provincia": "HERRERA",
+    "distrito": "LOS POZOS",
+    "corregimiento": "LAS LLANAS"
+  },
+  {
+    "codigo": "6-4-0",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-4-1",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "OCU (CABECERA)"
+  },
+  {
+    "codigo": "6-4-2",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "CERRO LARGO"
+  },
+  {
+    "codigo": "6-4-3",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "LOS LLANOS"
+  },
+  {
+    "codigo": "6-4-4",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "LLANO GRANDE"
+  },
+  {
+    "codigo": "6-4-5",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "PEÑAS CHATAS"
+  },
+  {
+    "codigo": "6-4-6",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "EL TIJERA"
+  },
+  {
+    "codigo": "6-4-7",
+    "provincia": "HERRERA",
+    "distrito": "OCU",
+    "corregimiento": "MENCHACA"
+  },
+  {
+    "codigo": "6-5-0",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-5-1",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "PARITA (CABECERA)"
+  },
+  {
+    "codigo": "6-5-2",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "CABUYA"
+  },
+  {
+    "codigo": "6-5-3",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "LOS CASTILLOS"
+  },
+  {
+    "codigo": "6-5-4",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "LLANO DE LA CRUZ"
+  },
+  {
+    "codigo": "6-5-5",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "PARIS"
+  },
+  {
+    "codigo": "6-5-6",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "PORTOBELILLO"
+  },
+  {
+    "codigo": "6-5-7",
+    "provincia": "HERRERA",
+    "distrito": "PARITA",
+    "corregimiento": "POTUGA"
+  },
+  {
+    "codigo": "6-6-0",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-6-1",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "PESE (CABECERA)"
+  },
+  {
+    "codigo": "6-6-2",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "LAS CABRAS"
+  },
+  {
+    "codigo": "6-6-3",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "EL PAJARO"
+  },
+  {
+    "codigo": "6-6-4",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "EL BARRERO"
+  },
+  {
+    "codigo": "6-6-5",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "EL PEDREGOSO"
+  },
+  {
+    "codigo": "6-6-6",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "EL CIRUELO"
+  },
+  {
+    "codigo": "6-6-7",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "SABANA GRANDE"
+  },
+  {
+    "codigo": "6-6-8",
+    "provincia": "HERRERA",
+    "distrito": "PESE",
+    "corregimiento": "RINCON HONDO"
+  },
+  {
+    "codigo": "6-7-0",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "6-7-1",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "SANTA MARIA (CABECERA)"
+  },
+  {
+    "codigo": "6-7-2",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "CHUPAMPA"
+  },
+  {
+    "codigo": "6-7-3",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "EL RINCON"
+  },
+  {
+    "codigo": "6-7-4",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "EL LIMON"
+  },
+  {
+    "codigo": "6-7-5",
+    "provincia": "HERRERA",
+    "distrito": "SANTA MARIA",
+    "corregimiento": "LOS CANELOS"
+  },
+  {
+    "codigo": "7-0-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-1-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-1-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "GUARARE (CABECERA)"
+  },
+  {
+    "codigo": "7-1-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "EL ESPINAL"
+  },
+  {
+    "codigo": "7-1-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "EL MACANO"
+  },
+  {
+    "codigo": "7-1-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "GUARARE ARRIBA"
+  },
+  {
+    "codigo": "7-1-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "LA ENEA"
+  },
+  {
+    "codigo": "7-1-6",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "LA PASERA"
+  },
+  {
+    "codigo": "7-1-7",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "LAS TRANCAS"
+  },
+  {
+    "codigo": "7-1-8",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "LLANO ABAJO"
+  },
+  {
+    "codigo": "7-1-9",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "EL HATO"
+  },
+  {
+    "codigo": "7-1-10",
+    "provincia": "LOS SANTOS",
+    "distrito": "GUARARE",
+    "corregimiento": "PERALES"
+  },
+  {
+    "codigo": "7-2-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-2-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LAS TABLAS (CABECERA)"
+  },
+  {
+    "codigo": "7-2-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "BAJO CORRAL"
+  },
+  {
+    "codigo": "7-2-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "BAYANO"
+  },
+  {
+    "codigo": "7-2-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "EL CARATE"
+  },
+  {
+    "codigo": "7-2-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "EL COCAL"
+  },
+  {
+    "codigo": "7-2-6",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "EL MANANTIAL"
+  },
+  {
+    "codigo": "7-2-7",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "EL MUÑOZ"
+  },
+  {
+    "codigo": "7-2-8",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "EL PEDREGOSO"
+  },
+  {
+    "codigo": "7-2-9",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LA LAJA"
+  },
+  {
+    "codigo": "7-2-10",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LA MIEL"
+  },
+  {
+    "codigo": "7-2-11",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LA PALMA"
+  },
+  {
+    "codigo": "7-2-12",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LA TIZA"
+  },
+  {
+    "codigo": "7-2-13",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LAS PALMITAS"
+  },
+  {
+    "codigo": "7-2-14",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "LAS TABLAS ABAJO"
+  },
+  {
+    "codigo": "7-2-15",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "NUARIO"
+  },
+  {
+    "codigo": "7-2-16",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "PALMIRA"
+  },
+  {
+    "codigo": "7-2-17",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "PEÑA BLANCA"
+  },
+  {
+    "codigo": "7-2-18",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "RIO HONDO"
+  },
+  {
+    "codigo": "7-2-19",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "SAN JOSE"
+  },
+  {
+    "codigo": "7-2-20",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "SAN MIGUEL"
+  },
+  {
+    "codigo": "7-2-21",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "SANTO DOMINGO"
+  },
+  {
+    "codigo": "7-2-22",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "SESTEADERO"
+  },
+  {
+    "codigo": "7-2-23",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "VALLE RICO"
+  },
+  {
+    "codigo": "7-2-24",
+    "provincia": "LOS SANTOS",
+    "distrito": "LAS TABLAS",
+    "corregimiento": "VALLERIQUITO"
+  },
+  {
+    "codigo": "7-3-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-3-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LA VILLA DE LOS SANTOS (CABECERA)"
+  },
+  {
+    "codigo": "7-3-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "EL GUASIMO"
+  },
+  {
+    "codigo": "7-3-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LA COLORADA"
+  },
+  {
+    "codigo": "7-3-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LA ESPIGADILLA"
+  },
+  {
+    "codigo": "7-3-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LAS CRUCES"
+  },
+  {
+    "codigo": "7-3-6",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LAS GUABAS"
+  },
+  {
+    "codigo": "7-3-7",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LOS ANGELES"
+  },
+  {
+    "codigo": "7-3-8",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LOS OLIVOS"
+  },
+  {
+    "codigo": "7-3-9",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "LLANO LARGO"
+  },
+  {
+    "codigo": "7-3-10",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "SABANA GRANDE"
+  },
+  {
+    "codigo": "7-3-11",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "SANTA ANA"
+  },
+  {
+    "codigo": "7-3-12",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "TRES QUEBRADAS"
+  },
+  {
+    "codigo": "7-3-13",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "AGUA BUENA"
+  },
+  {
+    "codigo": "7-3-14",
+    "provincia": "LOS SANTOS",
+    "distrito": "LOS SANTOS",
+    "corregimiento": "VILLA LOURDES"
+  },
+  {
+    "codigo": "7-4-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-4-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "MACARACAS (CABECERA)"
+  },
+  {
+    "codigo": "7-4-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "BAHIA HONDA"
+  },
+  {
+    "codigo": "7-4-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "BAJOS DE GUERA"
+  },
+  {
+    "codigo": "7-4-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "COROZAL"
+  },
+  {
+    "codigo": "7-4-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "CHUPA"
+  },
+  {
+    "codigo": "7-4-6",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "EL CEDRO"
+  },
+  {
+    "codigo": "7-4-7",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "ESPINO AMARILLO"
+  },
+  {
+    "codigo": "7-4-8",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "LA MESA"
+  },
+  {
+    "codigo": "7-4-9",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "LAS PALMAS"
+  },
+  {
+    "codigo": "7-4-10",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "LLANO DE PIEDRA"
+  },
+  {
+    "codigo": "7-4-11",
+    "provincia": "LOS SANTOS",
+    "distrito": "MACARACAS",
+    "corregimiento": "MOGOLLON"
+  },
+  {
+    "codigo": "7-5-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-5-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "PEDASI (CABECERA)"
+  },
+  {
+    "codigo": "7-5-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "LOS ASIENTOS"
+  },
+  {
+    "codigo": "7-5-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "MARIABE"
+  },
+  {
+    "codigo": "7-5-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "PURIO"
+  },
+  {
+    "codigo": "7-5-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "PEDASI",
+    "corregimiento": "ORIA ARRIBA"
+  },
+  {
+    "codigo": "7-6-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-6-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "POCRI"
+  },
+  {
+    "codigo": "7-6-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "EL CAÑAFISTULO"
+  },
+  {
+    "codigo": "7-6-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "LAJAMINA"
+  },
+  {
+    "codigo": "7-6-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "PARAISO"
+  },
+  {
+    "codigo": "7-6-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "POCRI",
+    "corregimiento": "PARITILLA"
+  },
+  {
+    "codigo": "7-7-0",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "7-7-1",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "TONOSI (CABECERA)"
+  },
+  {
+    "codigo": "7-7-2",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "ALTOS DE GUERA"
+  },
+  {
+    "codigo": "7-7-3",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "CAÑAS"
+  },
+  {
+    "codigo": "7-7-4",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "EL BEBEDERO"
+  },
+  {
+    "codigo": "7-7-5",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "EL CACAO"
+  },
+  {
+    "codigo": "7-7-6",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "EL CORTEZO"
+  },
+  {
+    "codigo": "7-7-7",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "FLORES"
+  },
+  {
+    "codigo": "7-7-8",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "GUANICO"
+  },
+  {
+    "codigo": "7-7-9",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "LA TRONOSA"
+  },
+  {
+    "codigo": "7-7-10",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "CAMBUTAL"
+  },
+  {
+    "codigo": "7-7-11",
+    "provincia": "LOS SANTOS",
+    "distrito": "TONOSI",
+    "corregimiento": "ISLA DE CAQAS"
+  },
+  {
+    "codigo": "8-0-0",
+    "provincia": "PANAMA",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-2-0",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-2-1",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "SAN MIGUEL (CABECERA)"
+  },
+  {
+    "codigo": "8-2-2",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "LA ENSENADA"
+  },
+  {
+    "codigo": "8-2-3",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "LA ESMERALDA"
+  },
+  {
+    "codigo": "8-2-4",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "LA GUINEA"
+  },
+  {
+    "codigo": "8-2-5",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "PEDRO GONZALEZ"
+  },
+  {
+    "codigo": "8-2-6",
+    "provincia": "PANAMA",
+    "distrito": "BALBOA",
+    "corregimiento": "SABOGA"
+  },
+  {
+    "codigo": "8-5-0",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-5-1",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "CHEPO (CABECERA)"
+  },
+  {
+    "codigo": "8-5-2",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "CAÑITA"
+  },
+  {
+    "codigo": "8-5-3",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "CHEPILLO"
+  },
+  {
+    "codigo": "8-5-4",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "EL LLANO"
+  },
+  {
+    "codigo": "8-5-5",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "LAS MARGARITAS"
+  },
+  {
+    "codigo": "8-5-6",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "SANTA CRUZ DE CHININA"
+  },
+  {
+    "codigo": "8-5-7",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "COMARCA KUNA DE MADUNGANDI"
+  },
+  {
+    "codigo": "8-5-8",
+    "provincia": "PANAMA",
+    "distrito": "CHEPO",
+    "corregimiento": "TORTI"
+  },
+  {
+    "codigo": "8-6-0",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-6-1",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "CHIMAN (CABECERA)"
+  },
+  {
+    "codigo": "8-6-2",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "BRUJAS"
+  },
+  {
+    "codigo": "8-6-3",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "GONZALO VASQUEZ"
+  },
+  {
+    "codigo": "8-6-4",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "PASIGA"
+  },
+  {
+    "codigo": "8-6-5",
+    "provincia": "PANAMA",
+    "distrito": "CHIMAN",
+    "corregimiento": "UNION SANTEÑA"
+  },
+  {
+    "codigo": "8-8-0",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-8-1",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "SAN FELIPE"
+  },
+  {
+    "codigo": "8-8-2",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "EL CHORRILLO"
+  },
+  {
+    "codigo": "8-8-3",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "SANTA ANA"
+  },
+  {
+    "codigo": "8-8-4",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "LA EXPOSICIÓN O CALIDONIA"
+  },
+  {
+    "codigo": "8-8-5",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "CURUNDU"
+  },
+  {
+    "codigo": "8-8-6",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "BETANIA"
+  },
+  {
+    "codigo": "8-8-7",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "BELLA VISTA"
+  },
+  {
+    "codigo": "8-8-8",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "PUEBLO NUEVO"
+  },
+  {
+    "codigo": "8-8-9",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "SAN FRANCISCO"
+  },
+  {
+    "codigo": "8-8-10",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "PARQUE LEFEVRE"
+  },
+  {
+    "codigo": "8-8-11",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "RIO ABAJO"
+  },
+  {
+    "codigo": "8-8-12",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "JUAN DIAZ"
+  },
+  {
+    "codigo": "8-8-13",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "PEDREGAL"
+  },
+  {
+    "codigo": "8-8-14",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "ANCON"
+  },
+  {
+    "codigo": "8-8-15",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "CHILIBRE"
+  },
+  {
+    "codigo": "8-8-16",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "LAS CUMBRES"
+  },
+  {
+    "codigo": "8-8-17",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "PACORA"
+  },
+  {
+    "codigo": "8-8-18",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "SAN MARTIN"
+  },
+  {
+    "codigo": "8-8-19",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "TOCUMEN"
+  },
+  {
+    "codigo": "8-8-20",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "LAS MAÑANITAS"
+  },
+  {
+    "codigo": "8-8-21",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "24 DE DICIEMBRE"
+  },
+  {
+    "codigo": "8-8-22",
+    "provincia": "PANAMA",
+    "distrito": "PANAMA",
+    "corregimiento": "ERNESTO CORDOBA CAMPOS"
+  },
+  {
+    "codigo": "8-10-0",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-10-1",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "AMELIA DENIS DE ICAZA"
+  },
+  {
+    "codigo": "8-10-2",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "BELISARIO PORRAS"
+  },
+  {
+    "codigo": "8-10-3",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "JOSE DOMINGO ESPINAR"
+  },
+  {
+    "codigo": "8-10-4",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "MATEO ITURRALDE"
+  },
+  {
+    "codigo": "8-10-5",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "VICTORIANO LORENZO"
+  },
+  {
+    "codigo": "8-10-6",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "ARNULFO ARIAS"
+  },
+  {
+    "codigo": "8-10-7",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "BELISARIO FRIAS"
+  },
+  {
+    "codigo": "8-10-8",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "OMAR TORRIJOS"
+  },
+  {
+    "codigo": "8-10-9",
+    "provincia": "PANAMA",
+    "distrito": "SAN MIGUELITO",
+    "corregimiento": "RUFINA ALFARO"
+  },
+  {
+    "codigo": "8-11-0",
+    "provincia": "PANAMA",
+    "distrito": "TABOGA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "8-11-1",
+    "provincia": "PANAMA",
+    "distrito": "TABOGA",
+    "corregimiento": "TABOGA (CABECERA)"
+  },
+  {
+    "codigo": "8-11-2",
+    "provincia": "PANAMA",
+    "distrito": "TABOGA",
+    "corregimiento": "OTOQUE ORIENTE"
+  },
+  {
+    "codigo": "8-11-3",
+    "provincia": "PANAMA",
+    "distrito": "TABOGA",
+    "corregimiento": "OTOQUE OCCIDENTE"
+  },
+  {
+    "codigo": "9-0-0",
+    "provincia": "VERAGUAS",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-1-0",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-1-1",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "ATALAYA (CABECERA)"
+  },
+  {
+    "codigo": "9-1-2",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "EL BARRITO"
+  },
+  {
+    "codigo": "9-1-3",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "LA MONTAÑUELA"
+  },
+  {
+    "codigo": "9-1-4",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "LA CARRILLO"
+  },
+  {
+    "codigo": "9-1-5",
+    "provincia": "VERAGUAS",
+    "distrito": "ATALAYA",
+    "corregimiento": "SAN ANTONIO"
+  },
+  {
+    "codigo": "9-2-0",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-2-1",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "CALOBRE (CABECERA)"
+  },
+  {
+    "codigo": "9-2-2",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "BARNIZAL"
+  },
+  {
+    "codigo": "9-2-3",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "CHITRA"
+  },
+  {
+    "codigo": "9-2-4",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "EL COCLA"
+  },
+  {
+    "codigo": "9-2-5",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "EL POTRERO"
+  },
+  {
+    "codigo": "9-2-6",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "LA LAGUNA"
+  },
+  {
+    "codigo": "9-2-7",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "LA RAYA DE CALOBRE"
+  },
+  {
+    "codigo": "9-2-8",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "LA TETILLA"
+  },
+  {
+    "codigo": "9-2-9",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "LA YEGUADA"
+  },
+  {
+    "codigo": "9-2-10",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "LAS GUIAS"
+  },
+  {
+    "codigo": "9-2-11",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "MONJARAS"
+  },
+  {
+    "codigo": "9-2-12",
+    "provincia": "VERAGUAS",
+    "distrito": "CALOBRE",
+    "corregimiento": "SAN JOSE"
+  },
+  {
+    "codigo": "9-3-0",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-3-1",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "CAÑAZAS (CABECERA)"
+  },
+  {
+    "codigo": "9-3-2",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "CERRO PLATA"
+  },
+  {
+    "codigo": "9-3-3",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "EL PICADOR"
+  },
+  {
+    "codigo": "9-3-4",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "LOS VALLES"
+  },
+  {
+    "codigo": "9-3-5",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "SAN JOSE"
+  },
+  {
+    "codigo": "9-3-6",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "SAN MARCELO"
+  },
+  {
+    "codigo": "9-3-7",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "EL AROMILLO"
+  },
+  {
+    "codigo": "9-3-8",
+    "provincia": "VERAGUAS",
+    "distrito": "CAÑAZAS",
+    "corregimiento": "LAS CRUCES"
+  },
+  {
+    "codigo": "9-4-0",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-4-1",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "LA MESA (CABECERA)"
+  },
+  {
+    "codigo": "9-4-2",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "BISVALLES"
+  },
+  {
+    "codigo": "9-4-3",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "BORO"
+  },
+  {
+    "codigo": "9-4-4",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "LLANO GRANDE"
+  },
+  {
+    "codigo": "9-4-5",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "SAN BARTOLO"
+  },
+  {
+    "codigo": "9-4-6",
+    "provincia": "VERAGUAS",
+    "distrito": "LA MEZA",
+    "corregimiento": "LOS MILAGROS"
+  },
+  {
+    "codigo": "9-5-0",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-5-1",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "LAS PALMAS (CABECERA)"
+  },
+  {
+    "codigo": "9-5-2",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "CERRO DE CASA"
+  },
+  {
+    "codigo": "9-5-3",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "COROZAL"
+  },
+  {
+    "codigo": "9-5-4",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "EL MARIA"
+  },
+  {
+    "codigo": "9-5-5",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "EL PRADO"
+  },
+  {
+    "codigo": "9-5-6",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "EL RINCON"
+  },
+  {
+    "codigo": "9-5-7",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "LOLA"
+  },
+  {
+    "codigo": "9-5-8",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "PIXVAE"
+  },
+  {
+    "codigo": "9-5-9",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "PUERTO VIDAL"
+  },
+  {
+    "codigo": "9-5-10",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "SAN MARTIN DE PORRES"
+  },
+  {
+    "codigo": "9-5-11",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "VIGUI"
+  },
+  {
+    "codigo": "9-5-12",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "ZAPOTILLO"
+  },
+  {
+    "codigo": "9-5-13",
+    "provincia": "VERAGUAS",
+    "distrito": "LAS PALMAS",
+    "corregimiento": "ALTAMIRA"
+  },
+  {
+    "codigo": "9-6-0",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-6-1",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "MONTIJO (CABECERA)"
+  },
+  {
+    "codigo": "9-6-2",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "ARENAS"
+  },
+  {
+    "codigo": "9-6-3",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "GOBERNADORA"
+  },
+  {
+    "codigo": "9-6-4",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "LA GARCEANA"
+  },
+  {
+    "codigo": "9-6-5",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "LEONES"
+  },
+  {
+    "codigo": "9-6-6",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "CEBACO"
+  },
+  {
+    "codigo": "9-6-7",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "COSTA HERMOSA"
+  },
+  {
+    "codigo": "9-6-8",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "UNION DEL NORTE"
+  },
+  {
+    "codigo": "9-6-9",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "TEBARIO"
+  },
+  {
+    "codigo": "9-6-10",
+    "provincia": "VERAGUAS",
+    "distrito": "MONTIJO",
+    "corregimiento": "EL PILON"
+  },
+  {
+    "codigo": "9-7-0",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-7-1",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "RIO DE JESUS (CABECERA)"
+  },
+  {
+    "codigo": "9-7-2",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "LAS HUACAS"
+  },
+  {
+    "codigo": "9-7-3",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "LOS CASTILLOS"
+  },
+  {
+    "codigo": "9-7-4",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "UTIRA"
+  },
+  {
+    "codigo": "9-7-5",
+    "provincia": "VERAGUAS",
+    "distrito": "RIO DE JESUS",
+    "corregimiento": "CATORCE DE NOVIEMBRE"
+  },
+  {
+    "codigo": "9-8-0",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-8-1",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "SAN FRANCISCO (CABECERA)"
+  },
+  {
+    "codigo": "9-8-2",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "CORRAL FALSO"
+  },
+  {
+    "codigo": "9-8-3",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "LOS HATILLOS"
+  },
+  {
+    "codigo": "9-8-4",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "REMANCE"
+  },
+  {
+    "codigo": "9-8-5",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "SAN JUAN"
+  },
+  {
+    "codigo": "9-8-6",
+    "provincia": "VERAGUAS",
+    "distrito": "SAN FRANCISCO",
+    "corregimiento": "SAN JOSE"
+  },
+  {
+    "codigo": "9-9-0",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-9-1",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "SANTA FE (CABECERA)"
+  },
+  {
+    "codigo": "9-9-2",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "CALOVEBORA"
+  },
+  {
+    "codigo": "9-9-3",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "EL ALTO"
+  },
+  {
+    "codigo": "9-9-4",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "EL CUAY"
+  },
+  {
+    "codigo": "9-9-5",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "EL PANTANO"
+  },
+  {
+    "codigo": "9-9-6",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "GATU O GATUCITO"
+  },
+  {
+    "codigo": "9-9-7",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTA FE",
+    "corregimiento": "RIO LUIS"
+  },
+  {
+    "codigo": "9-10-0",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-10-1",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "SANTIAGO (CABECERA)"
+  },
+  {
+    "codigo": "9-10-2",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "LA COLORADA"
+  },
+  {
+    "codigo": "9-10-3",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "LA PEÑA"
+  },
+  {
+    "codigo": "9-10-4",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "LA RAYA DE SANTA MARIA"
+  },
+  {
+    "codigo": "9-10-5",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "PONUGA"
+  },
+  {
+    "codigo": "9-10-6",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "SAN PEDRO DEL ESPINO"
+  },
+  {
+    "codigo": "9-10-7",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "CANTO DEL LLANO"
+  },
+  {
+    "codigo": "9-10-8",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "LOS ALGARROBOS"
+  },
+  {
+    "codigo": "9-10-9",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "CARLOS SANTANA AVILA"
+  },
+  {
+    "codigo": "9-10-10",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "EDWIN FABREGA"
+  },
+  {
+    "codigo": "9-10-11",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "SAN MARTIN DE PORRES"
+  },
+  {
+    "codigo": "9-10-12",
+    "provincia": "VERAGUAS",
+    "distrito": "SANTIAGO",
+    "corregimiento": "URRACA"
+  },
+  {
+    "codigo": "9-11-0",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "9-11-1",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "SONA (CABECERA)"
+  },
+  {
+    "codigo": "9-11-2",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "BAHIA HONDA"
+  },
+  {
+    "codigo": "9-11-3",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "CALIDONIA"
+  },
+  {
+    "codigo": "9-11-4",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "CATIVE"
+  },
+  {
+    "codigo": "9-11-5",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "EL MARAÑON"
+  },
+  {
+    "codigo": "9-11-6",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "GUARUMAL"
+  },
+  {
+    "codigo": "9-11-7",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "LA SOLEDAD"
+  },
+  {
+    "codigo": "9-11-8",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "QUEBRADA DE ORO"
+  },
+  {
+    "codigo": "9-11-9",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "RIO GRANDE"
+  },
+  {
+    "codigo": "9-11-10",
+    "provincia": "VERAGUAS",
+    "distrito": "SONA",
+    "corregimiento": "RODEO VIEJO"
+  },
+  {
+    "codigo": "9-12-1",
+    "provincia": "VERAGUAS",
+    "distrito": "MARIATO",
+    "corregimiento": "LLANO DE CATIVAL O MARIATO (CABECERA)"
+  },
+  {
+    "codigo": "9-12-2",
+    "provincia": "VERAGUAS",
+    "distrito": "MARIATO",
+    "corregimiento": "ARENAS"
+  },
+  {
+    "codigo": "9-12-3",
+    "provincia": "VERAGUAS",
+    "distrito": "MARIATO",
+    "corregimiento": "EL CACAO"
+  },
+  {
+    "codigo": "9-12-4",
+    "provincia": "VERAGUAS",
+    "distrito": "MARIATO",
+    "corregimiento": "QUEBRO"
+  },
+  {
+    "codigo": "9-12-5",
+    "provincia": "VERAGUAS",
+    "distrito": "MARIATO",
+    "corregimiento": "TEBARIO"
+  },
+  {
+    "codigo": "10-0-0",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "10-1-0",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "COMARCA KUNA YALA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "10-1-1",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "COMARCA KUNA YALA",
+    "corregimiento": "NARGANA (CABECERA)"
+  },
+  {
+    "codigo": "10-1-2",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "COMARCA KUNA YALA",
+    "corregimiento": "AILIGANDI"
+  },
+  {
+    "codigo": "10-1-3",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "COMARCA KUNA YALA",
+    "corregimiento": "PUERTO OBALDIA"
+  },
+  {
+    "codigo": "10-1-4",
+    "provincia": "COMARCA KUNA YALA",
+    "distrito": "COMARCA KUNA YALA",
+    "corregimiento": "TUBUALA"
+  },
+  {
+    "codigo": "11-0-0",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "11-1-0",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "CEMACO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "11-1-1",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "CEMACO",
+    "corregimiento": "CIRILO GUAINORA (CABECERA)"
+  },
+  {
+    "codigo": "11-1-2",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "CEMACO",
+    "corregimiento": "LAJAS BLANCAS"
+  },
+  {
+    "codigo": "11-1-3",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "CEMACO",
+    "corregimiento": "MANUEL ORTEGA"
+  },
+  {
+    "codigo": "11-2-0",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "SAMBU",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "11-2-1",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "SAMBU",
+    "corregimiento": "RIO SABALO"
+  },
+  {
+    "codigo": "11-2-2",
+    "provincia": "COMARCA EMBERA-WOUNAAN",
+    "distrito": "SAMBU",
+    "corregimiento": "JINGURUDO"
+  },
+  {
+    "codigo": "12-0-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "INVALIDO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-1-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-1-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "SOLOY (CABECERA)"
+  },
+  {
+    "codigo": "12-1-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "BOCA DE BALSA"
+  },
+  {
+    "codigo": "12-1-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "CAMARON ARRIBA"
+  },
+  {
+    "codigo": "12-1-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "CERRO BANCO"
+  },
+  {
+    "codigo": "12-1-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "CERRO DE PATENA"
+  },
+  {
+    "codigo": "12-1-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "EMPLANADA DE CHORCHA"
+  },
+  {
+    "codigo": "12-1-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "NAMNONI"
+  },
+  {
+    "codigo": "12-1-8",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "BESIKO",
+    "corregimiento": "NIBA"
+  },
+  {
+    "codigo": "12-2-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-2-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "HATO PILON (CABECERA)"
+  },
+  {
+    "codigo": "12-2-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "CASCABEL"
+  },
+  {
+    "codigo": "12-2-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "HATO COROTU"
+  },
+  {
+    "codigo": "12-2-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "HATO CULANTRO"
+  },
+  {
+    "codigo": "12-2-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "HATO JOBO"
+  },
+  {
+    "codigo": "12-2-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "HATO JULI"
+  },
+  {
+    "codigo": "12-2-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "QUEBRADA DE LORO"
+  },
+  {
+    "codigo": "12-2-8",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MIRONO",
+    "corregimiento": "SALTO DUPI"
+  },
+  {
+    "codigo": "12-3-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-3-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "CHICHICA (CABECERA)"
+  },
+  {
+    "codigo": "12-3-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "ALTO CABALLERO"
+  },
+  {
+    "codigo": "12-3-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "BAKAMA"
+  },
+  {
+    "codigo": "12-3-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "CERRO CAÑA"
+  },
+  {
+    "codigo": "12-3-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "CERRO PUERCO"
+  },
+  {
+    "codigo": "12-3-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "KRUA"
+  },
+  {
+    "codigo": "12-3-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "MARACA"
+  },
+  {
+    "codigo": "12-3-8",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "NIBRA"
+  },
+  {
+    "codigo": "12-3-9",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "PEÑA BLANCA"
+  },
+  {
+    "codigo": "12-3-10",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "ROKA"
+  },
+  {
+    "codigo": "12-3-11",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "SITIO PRADO"
+  },
+  {
+    "codigo": "12-3-12",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "MUNA",
+    "corregimiento": "UMANI"
+  },
+  {
+    "codigo": "12-4-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-4-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "CERRO IGLESIAS (CABECERA)"
+  },
+  {
+    "codigo": "12-4-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "HATO CHAMI"
+  },
+  {
+    "codigo": "12-4-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "JADEBERI"
+  },
+  {
+    "codigo": "12-4-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "LAJERO"
+  },
+  {
+    "codigo": "12-4-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NOLE DUIMA",
+    "corregimiento": "SUSAMA"
+  },
+  {
+    "codigo": "12-5-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-5-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "BUENOS AIRES (CABECERA)"
+  },
+  {
+    "codigo": "12-5-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "AGUA DE SALUD"
+  },
+  {
+    "codigo": "12-5-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "ALTO DE JESUS"
+  },
+  {
+    "codigo": "12-5-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "CERRO PELADO"
+  },
+  {
+    "codigo": "12-5-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "EL BALE"
+  },
+  {
+    "codigo": "12-5-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "EL PAREDON"
+  },
+  {
+    "codigo": "12-5-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "EL PIRO"
+  },
+  {
+    "codigo": "12-5-8",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "GUAYABITO"
+  },
+  {
+    "codigo": "12-5-9",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "NURUM",
+    "corregimiento": "GUIBALE"
+  },
+  {
+    "codigo": "12-6-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-6-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "BISIRA (CABECERA)"
+  },
+  {
+    "codigo": "12-6-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "BURI"
+  },
+  {
+    "codigo": "12-6-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "GUARIVIARA"
+  },
+  {
+    "codigo": "12-6-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "GUORONI"
+  },
+  {
+    "codigo": "12-6-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "KANKINTU"
+  },
+  {
+    "codigo": "12-6-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "MUNUNI"
+  },
+  {
+    "codigo": "12-6-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "PIEDRA ROJA"
+  },
+  {
+    "codigo": "12-6-8",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "TUWAI"
+  },
+  {
+    "codigo": "12-6-9",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KANKINTU",
+    "corregimiento": "MAN CREEK"
+  },
+  {
+    "codigo": "12-7-0",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "12-7-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "KUSAPIN (CABECERA)"
+  },
+  {
+    "codigo": "12-7-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "BAHIA AZUL"
+  },
+  {
+    "codigo": "12-7-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "CALOVEBORA O SANTA CATALINA"
+  },
+  {
+    "codigo": "12-7-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "LOMA YUCA"
+  },
+  {
+    "codigo": "12-7-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "RIO CHIRIQUI"
+  },
+  {
+    "codigo": "12-7-6",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "TOBOBE"
+  },
+  {
+    "codigo": "12-7-7",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "KUSAPIN",
+    "corregimiento": "VALLE BONITO"
+  },
+  {
+    "codigo": "12-8-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "JIRONDAI",
+    "corregimiento": "SAMBOA"
+  },
+  {
+    "codigo": "12-8-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "JIRONDAI",
+    "corregimiento": "BURI"
+  },
+  {
+    "codigo": "12-8-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "JIRONDAI",
+    "corregimiento": "GUARIVIARA"
+  },
+  {
+    "codigo": "12-8-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "JIRONDAI",
+    "corregimiento": "MAN CREEK"
+  },
+  {
+    "codigo": "12-8-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "JIRONDAI",
+    "corregimiento": "TUWAI"
+  },
+  {
+    "codigo": "12-9-1",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)",
+    "corregimiento": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)(CABECERA)"
+  },
+  {
+    "codigo": "12-9-2",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)",
+    "corregimiento": "ALTO BILINGUE (GDOGUESHIA)"
+  },
+  {
+    "codigo": "12-9-3",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)",
+    "corregimiento": "LOMA YUKA (LJUICHO)"
+  },
+  {
+    "codigo": "12-9-4",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)",
+    "corregimiento": "SAN PEDRITO"
+  },
+  {
+    "codigo": "12-9-5",
+    "provincia": "COMARCA NGÄBE-BUGLE",
+    "distrito": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)",
+    "corregimiento": "VALLE BONITO(DOGATA)"
+  },
+  {
+    "codigo": "13-1-0",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "13-1-1",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "ARRAIJAN (CABECERA)"
+  },
+  {
+    "codigo": "13-1-2",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "BURUNGA"
+  },
+  {
+    "codigo": "13-1-3",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "CERRO SILVESTRE"
+  },
+  {
+    "codigo": "13-1-4",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "JUAN DEMOSTENES AROSEMENA"
+  },
+  {
+    "codigo": "13-1-5",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "NUEVO EMPERADOR"
+  },
+  {
+    "codigo": "13-1-6",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "SANTA CLARA"
+  },
+  {
+    "codigo": "13-1-7",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "VERACRUZ"
+  },
+  {
+    "codigo": "13-1-8",
+    "provincia": "PANAMA OESTE",
+    "distrito": "ARRAIJAN",
+    "corregimiento": "VISTA ALEGRE"
+  },
+  {
+    "codigo": "13-2-0",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "13-2-1",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CAPIRA (CABECERA)"
+  },
+  {
+    "codigo": "13-2-2",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CAIMITO"
+  },
+  {
+    "codigo": "13-2-3",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CAMPANA"
+  },
+  {
+    "codigo": "13-2-4",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CERMEÑO"
+  },
+  {
+    "codigo": "13-2-5",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CIRI DE LOS SOTOS"
+  },
+  {
+    "codigo": "13-2-6",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "CIRI GRANDE"
+  },
+  {
+    "codigo": "13-2-7",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "EL CACAO"
+  },
+  {
+    "codigo": "13-2-8",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "LA TRINIDAD"
+  },
+  {
+    "codigo": "13-2-9",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "LAS OLLAS ARRIBA"
+  },
+  {
+    "codigo": "13-2-10",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "LIDICE"
+  },
+  {
+    "codigo": "13-2-11",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "VILLA CARMEN"
+  },
+  {
+    "codigo": "13-2-12",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "VILLA ROSARIO"
+  },
+  {
+    "codigo": "13-2-13",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CAPIRA",
+    "corregimiento": "SANTA ROSA"
+  },
+  {
+    "codigo": "13-3-0",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "13-3-1",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "CHAME (CABECERA)"
+  },
+  {
+    "codigo": "13-3-2",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "BEJUCO"
+  },
+  {
+    "codigo": "13-3-3",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "BUENOS AIRES"
+  },
+  {
+    "codigo": "13-3-4",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "CABUYA"
+  },
+  {
+    "codigo": "13-3-5",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "CHICA"
+  },
+  {
+    "codigo": "13-3-6",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "EL LIBANO"
+  },
+  {
+    "codigo": "13-3-7",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "LAS LAJAS"
+  },
+  {
+    "codigo": "13-3-8",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "NUEVA GORGONA"
+  },
+  {
+    "codigo": "13-3-9",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "PUNTA CHAME"
+  },
+  {
+    "codigo": "13-3-10",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "SAJALICES"
+  },
+  {
+    "codigo": "13-3-11",
+    "provincia": "PANAMA OESTE",
+    "distrito": "CHAME",
+    "corregimiento": "SORA"
+  },
+  {
+    "codigo": "13-4-0",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "13-4-1",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "BARRIO BALBOA"
+  },
+  {
+    "codigo": "13-4-2",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "BARRIO COLON"
+  },
+  {
+    "codigo": "13-4-3",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "AMADOR"
+  },
+  {
+    "codigo": "13-4-4",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "AROSEMENA"
+  },
+  {
+    "codigo": "13-4-5",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "EL ARADO"
+  },
+  {
+    "codigo": "13-4-6",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "EL COCO"
+  },
+  {
+    "codigo": "13-4-7",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "FEUILLET"
+  },
+  {
+    "codigo": "13-4-8",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "GUADALUPE"
+  },
+  {
+    "codigo": "13-4-9",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "HERRERA"
+  },
+  {
+    "codigo": "13-4-10",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "HURTADO"
+  },
+  {
+    "codigo": "13-4-11",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "ITURRALDE"
+  },
+  {
+    "codigo": "13-4-12",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "LA REPRESA"
+  },
+  {
+    "codigo": "13-4-13",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "LOS DIAZ"
+  },
+  {
+    "codigo": "13-4-14",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "MENDOZA"
+  },
+  {
+    "codigo": "13-4-15",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "OBALDIA"
+  },
+  {
+    "codigo": "13-4-16",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "PLAYA LEONA"
+  },
+  {
+    "codigo": "13-4-17",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "PUERTO CAIMITO"
+  },
+  {
+    "codigo": "13-4-18",
+    "provincia": "PANAMA OESTE",
+    "distrito": "LA CHORRERA",
+    "corregimiento": "SANTA RITA"
+  },
+  {
+    "codigo": "13-5-0",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "INVALIDO"
+  },
+  {
+    "codigo": "13-5-1",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "SAN CARLOS (CABECERA)"
+  },
+  {
+    "codigo": "13-5-2",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "EL ESPINO"
+  },
+  {
+    "codigo": "13-5-3",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "EL HIGO"
+  },
+  {
+    "codigo": "13-5-4",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "GUAYABITO"
+  },
+  {
+    "codigo": "13-5-5",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "LA ERMITA"
+  },
+  {
+    "codigo": "13-5-6",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "LA LAGUNA"
+  },
+  {
+    "codigo": "13-5-7",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "LAS UVAS"
+  },
+  {
+    "codigo": "13-5-8",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "LOS LLANITOS"
+  },
+  {
+    "codigo": "13-5-9",
+    "provincia": "PANAMA OESTE",
+    "distrito": "SAN CARLOS",
+    "corregimiento": "SAN JOSE"
+  }
+]

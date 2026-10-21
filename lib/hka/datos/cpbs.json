@@ -1,0 +1,2335 @@
+{
+  "segmentos": [
+    {
+      "codigo": "10",
+      "nombre": "Material Vivo Vegetal y Animal, Accesorios y Suministros."
+    },
+    {
+      "codigo": "11",
+      "nombre": "Material Mineral, Textil y Vegetal y Animal No Comestible"
+    },
+    {
+      "codigo": "12",
+      "nombre": "Material Químico incluyendo Bioquímicos y Materiales de Gas"
+    },
+    {
+      "codigo": "13",
+      "nombre": "Materiales de Resina, Colofonia, Caucho, Espuma, Película y Elastómericos"
+    },
+    {
+      "codigo": "14",
+      "nombre": "Materiales y Productos de Papel"
+    },
+    {
+      "codigo": "15",
+      "nombre": "Materiales Combustibles, Aditivos para Combustibles, Lubricantes y Anticorrosivos"
+    },
+    {
+      "codigo": "20",
+      "nombre": "Maquinaria y Accesorios de Minería y Perforación de Pozos"
+    },
+    {
+      "codigo": "21",
+      "nombre": "Maquinaria y Accesorios para Agricultura, Pesca, Silvicultura y Fauna"
+    },
+    {
+      "codigo": "22",
+      "nombre": "Maquinaria y Accesorios para Construcción y Edificación"
+    },
+    {
+      "codigo": "23",
+      "nombre": "Maquinaria y Accesorios para Manufactura y Procesamiento Industrial"
+    },
+    {
+      "codigo": "24",
+      "nombre": "Maquinaria, Accesorios y Suministros para Manejo, Acondicionamiento y Almacenamiento de Materiales"
+    },
+    {
+      "codigo": "25",
+      "nombre": "Vehículos Comerciales, Militares y Particulares, Accesorios y Componentes"
+    },
+    {
+      "codigo": "26",
+      "nombre": "Maquinaria y Accesorios para Generación y Distribución de Energía"
+    },
+    {
+      "codigo": "27",
+      "nombre": "Herramientas y Maquinaria General"
+    },
+    {
+      "codigo": "30",
+      "nombre": "Componentes y Suministros para Estructuras, Edificación, Construcción y Obras Civiles"
+    },
+    {
+      "codigo": "31",
+      "nombre": "Componentes y Suministros de Manufactura"
+    },
+    {
+      "codigo": "32",
+      "nombre": "Componentes y Suministros Electrónicos"
+    },
+    {
+      "codigo": "39",
+      "nombre": "Componentes, Accesorios y Suministros de Sistemas Eléctricos e Iluminación"
+    },
+    {
+      "codigo": "40",
+      "nombre": "Componentes y Equipos para Distribución y Sistemas de Acondicionamiento"
+    },
+    {
+      "codigo": "41",
+      "nombre": "Equipos y Suministros de Laboratorio, de Medición, de Observación y de Pruebas"
+    },
+    {
+      "codigo": "42",
+      "nombre": "Equipo Médico, Accesorios y Suministros"
+    },
+    {
+      "codigo": "43",
+      "nombre": "Difusión de Tecnologías de Información y Telecomunicaciones"
+    },
+    {
+      "codigo": "44",
+      "nombre": "Equipos de Oficina, Accesorios y Suministros"
+    },
+    {
+      "codigo": "45",
+      "nombre": "Equipos y Suministros para Impresión, Fotografía y Audiovisuales"
+    },
+    {
+      "codigo": "46",
+      "nombre": "Equipos y Suministros de Defensa, Orden Público, Protección, Vigilancia y Seguridad"
+    },
+    {
+      "codigo": "47",
+      "nombre": "Equipos de Limpieza y Suministros"
+    },
+    {
+      "codigo": "48",
+      "nombre": "Maquinaria, Equipo y Suministros para la Industria de Servicios"
+    },
+    {
+      "codigo": "49",
+      "nombre": "Equipos, Suministros y Accesorios para Deportes y Recreación"
+    },
+    {
+      "codigo": "50",
+      "nombre": "Alimentos, Bebidas y Tabaco"
+    },
+    {
+      "codigo": "51",
+      "nombre": "Medicamentos y Productos Farmacéuticos"
+    },
+    {
+      "codigo": "52",
+      "nombre": "Artículos Domésticos, Suministros y Productos Electrónicos de Consumo"
+    },
+    {
+      "codigo": "53",
+      "nombre": "Ropa, Maletas y Productos de Aseo Personal"
+    },
+    {
+      "codigo": "54",
+      "nombre": "Productos para Relojería, Joyería y Piedras Preciosas"
+    },
+    {
+      "codigo": "55",
+      "nombre": "Publicaciones Impresas, Publicaciones Electrónicas y Accesorios"
+    },
+    {
+      "codigo": "56",
+      "nombre": "Muebles, Mobiliario y Decoración"
+    },
+    {
+      "codigo": "60",
+      "nombre": "Instrumentos Musicales, Juegos, Juguetes, Artes, Artesanías y Equipo educativo, Materiales, Accesorios y Suministros"
+    },
+    {
+      "codigo": "70",
+      "nombre": "Servicios de Contratación Agrícola, Pesquera, Forestal y de Fauna"
+    },
+    {
+      "codigo": "71",
+      "nombre": "Servicios de Minería, Petróleo y Gas"
+    },
+    {
+      "codigo": "72",
+      "nombre": "Servicios de Edificación, Construcción de Instalaciones y Mantenimiento"
+    },
+    {
+      "codigo": "73",
+      "nombre": "Servicios de Producción Industrial y Manufactura"
+    },
+    {
+      "codigo": "76",
+      "nombre": "Servicios de Limpieza, Descontaminación y Tratamiento de Residuos"
+    },
+    {
+      "codigo": "77",
+      "nombre": "Servicios Medioambientales"
+    },
+    {
+      "codigo": "78",
+      "nombre": "Servicios de Transporte, Almacenaje y Correo"
+    },
+    {
+      "codigo": "80",
+      "nombre": "Servicios de Gestión, Servicios Profesionales de Empresa y Servicios Administrativos"
+    },
+    {
+      "codigo": "81",
+      "nombre": "Servicios Basados en Ingeniería, Investigación y Tecnología"
+    },
+    {
+      "codigo": "82",
+      "nombre": "Servicios Editoriales, de Diseño, de Artes Gráficas y Bellas Artes"
+    },
+    {
+      "codigo": "83",
+      "nombre": "Servicios Públicos y Servicios Relacionados con el Sector Público"
+    },
+    {
+      "codigo": "84",
+      "nombre": "Servicios Financieros y de Seguros"
+    },
+    {
+      "codigo": "85",
+      "nombre": "Servicios de Salud"
+    },
+    {
+      "codigo": "86",
+      "nombre": "Servicios Educativos y de Formación"
+    },
+    {
+      "codigo": "90",
+      "nombre": "Servicios de Viajes, Alimentación, Alojamiento y Entretenimiento"
+    },
+    {
+      "codigo": "91",
+      "nombre": "Servicios Personales y Domésticos"
+    },
+    {
+      "codigo": "92",
+      "nombre": "Servicios de Defensa Nacional, Orden Público, Seguridad y Vigilancia"
+    },
+    {
+      "codigo": "93",
+      "nombre": "Servicios Políticos y de Asuntos Cívicos"
+    },
+    {
+      "codigo": "94",
+      "nombre": "Organizaciones y Clubes"
+    },
+    {
+      "codigo": "95",
+      "nombre": "Terrenos, Edificios, Estructuras y Vías"
+    }
+  ],
+  "familias": [
+    {
+      "codigo": "1010",
+      "segmento": "10",
+      "nombre": "Animales vivos"
+    },
+    {
+      "codigo": "1011",
+      "segmento": "10",
+      "nombre": "Productos para animales domésticos"
+    },
+    {
+      "codigo": "1012",
+      "segmento": "10",
+      "nombre": "Comida de animales"
+    },
+    {
+      "codigo": "1013",
+      "segmento": "10",
+      "nombre": "Recipientes y hábitat para animales"
+    },
+    {
+      "codigo": "1014",
+      "segmento": "10",
+      "nombre": "Productos de talabartería y arreo"
+    },
+    {
+      "codigo": "1015",
+      "segmento": "10",
+      "nombre": "Semillas, bulbos, plántulas y esquejes"
+    },
+    {
+      "codigo": "1016",
+      "segmento": "10",
+      "nombre": "Productos de floricultura y silvicultura"
+    },
+    {
+      "codigo": "1017",
+      "segmento": "10",
+      "nombre": "Fertilizantes y nutrientes para plantas y herbicidas"
+    },
+    {
+      "codigo": "1019",
+      "segmento": "10",
+      "nombre": "Productos para el control de plagas"
+    },
+    {
+      "codigo": "1020",
+      "segmento": "10",
+      "nombre": "Rosales vivos"
+    },
+    {
+      "codigo": "1021",
+      "segmento": "10",
+      "nombre": "Plantas vivas de especies o variedades de flores altas"
+    },
+    {
+      "codigo": "1022",
+      "segmento": "10",
+      "nombre": "Plantas vivas de especies o variedades de flores bajas"
+    },
+    {
+      "codigo": "1023",
+      "segmento": "10",
+      "nombre": "Crisantemos vivos"
+    },
+    {
+      "codigo": "1024",
+      "segmento": "10",
+      "nombre": "Claveles vivos"
+    },
+    {
+      "codigo": "1025",
+      "segmento": "10",
+      "nombre": "Orquídeas vivas"
+    },
+    {
+      "codigo": "1030",
+      "segmento": "10",
+      "nombre": "Rosas frescas cortadas"
+    },
+    {
+      "codigo": "1031",
+      "segmento": "10",
+      "nombre": "Bouquets cortados frescos de especies o variedades de flores altas"
+    },
+    {
+      "codigo": "1032",
+      "segmento": "10",
+      "nombre": "Bouquets cortados frescos de especies o variedades de flores bajas"
+    },
+    {
+      "codigo": "1033",
+      "segmento": "10",
+      "nombre": "Crisantemos cortados frescos"
+    },
+    {
+      "codigo": "1034",
+      "segmento": "10",
+      "nombre": "Bouquets florales cortados frescos"
+    },
+    {
+      "codigo": "1035",
+      "segmento": "10",
+      "nombre": "Claveles cortados frescos"
+    },
+    {
+      "codigo": "1036",
+      "segmento": "10",
+      "nombre": "Orquídeas cortadas frescas"
+    },
+    {
+      "codigo": "1040",
+      "segmento": "10",
+      "nombre": "Rosas cortadas secas"
+    },
+    {
+      "codigo": "1041",
+      "segmento": "10",
+      "nombre": "Bouquets cortados secos de especies o variedades de flores altas"
+    },
+    {
+      "codigo": "1042",
+      "segmento": "10",
+      "nombre": "Bouquets cortados secos de especies o variedades de flores bajas"
+    },
+    {
+      "codigo": "1043",
+      "segmento": "10",
+      "nombre": "Crisantemos cortados secos"
+    },
+    {
+      "codigo": "1044",
+      "segmento": "10",
+      "nombre": "Claveles cortados secos"
+    },
+    {
+      "codigo": "1045",
+      "segmento": "10",
+      "nombre": "Orquídeas cortadas secas"
+    },
+    {
+      "codigo": "1050",
+      "segmento": "10",
+      "nombre": "Follaje cortado fresco"
+    },
+    {
+      "codigo": "1110",
+      "segmento": "11",
+      "nombre": "Minerales, minerales metálicos y metales"
+    },
+    {
+      "codigo": "1111",
+      "segmento": "11",
+      "nombre": "Tierra y piedra"
+    },
+    {
+      "codigo": "1112",
+      "segmento": "11",
+      "nombre": "Productos no comestibles de planta y silvicultura"
+    },
+    {
+      "codigo": "1113",
+      "segmento": "11",
+      "nombre": "Productos animales no comestibles"
+    },
+    {
+      "codigo": "1114",
+      "segmento": "11",
+      "nombre": "Chatarra y materiales de desecho"
+    },
+    {
+      "codigo": "1115",
+      "segmento": "11",
+      "nombre": "Fibra, hilos e hilados"
+    },
+    {
+      "codigo": "1116",
+      "segmento": "11",
+      "nombre": "Tejidos y materiales de cuero"
+    },
+    {
+      "codigo": "1117",
+      "segmento": "11",
+      "nombre": "Aleaciones"
+    },
+    {
+      "codigo": "1118",
+      "segmento": "11",
+      "nombre": "Óxido metálico"
+    },
+    {
+      "codigo": "1119",
+      "segmento": "11",
+      "nombre": "Desechos metálicos y chatarra"
+    },
+    {
+      "codigo": "1213",
+      "segmento": "12",
+      "nombre": "Materiales explosivos"
+    },
+    {
+      "codigo": "1214",
+      "segmento": "12",
+      "nombre": "Elementos y gases"
+    },
+    {
+      "codigo": "1216",
+      "segmento": "12",
+      "nombre": "Aditivos"
+    },
+    {
+      "codigo": "1217",
+      "segmento": "12",
+      "nombre": "Colorantes"
+    },
+    {
+      "codigo": "1218",
+      "segmento": "12",
+      "nombre": "Ceras y aceites"
+    },
+    {
+      "codigo": "1219",
+      "segmento": "12",
+      "nombre": "Solventes"
+    },
+    {
+      "codigo": "1235",
+      "segmento": "12",
+      "nombre": "Compuestos y mezclas"
+    },
+    {
+      "codigo": "1310",
+      "segmento": "13",
+      "nombre": "Caucho y elastómeros"
+    },
+    {
+      "codigo": "1311",
+      "segmento": "13",
+      "nombre": "Resinas y colofonias y otros materiales derivados de resina"
+    },
+    {
+      "codigo": "1400",
+      "segmento": "14",
+      "nombre": "Materiales y Productos de Papel"
+    },
+    {
+      "codigo": "1410",
+      "segmento": "14",
+      "nombre": "Materiales de papel"
+    },
+    {
+      "codigo": "1411",
+      "segmento": "14",
+      "nombre": "Productos de papel"
+    },
+    {
+      "codigo": "1412",
+      "segmento": "14",
+      "nombre": "Papel para uso industrial"
+    },
+    {
+      "codigo": "1510",
+      "segmento": "15",
+      "nombre": "Combustibles"
+    },
+    {
+      "codigo": "1511",
+      "segmento": "15",
+      "nombre": "Combustibles gaseosos y aditivos"
+    },
+    {
+      "codigo": "1512",
+      "segmento": "15",
+      "nombre": "Lubricantes, aceites, grasas y anticorrosivos"
+    },
+    {
+      "codigo": "1513",
+      "segmento": "15",
+      "nombre": "Combustible para reactores nucleares"
+    },
+    {
+      "codigo": "2010",
+      "segmento": "20",
+      "nombre": "Maquinaria y equipo de minería y explotación de canteras"
+    },
+    {
+      "codigo": "2011",
+      "segmento": "20",
+      "nombre": "Equipo de perforación y explotación de pozos"
+    },
+    {
+      "codigo": "2012",
+      "segmento": "20",
+      "nombre": "Equipo para perforación y exploración de petróleo y gas"
+    },
+    {
+      "codigo": "2013",
+      "segmento": "20",
+      "nombre": "Materiales para perforación y operaciones de petróleo y gas"
+    },
+    {
+      "codigo": "2014",
+      "segmento": "20",
+      "nombre": "Equipo de producción y operación de petróleo y gas"
+    },
+    {
+      "codigo": "2110",
+      "segmento": "21",
+      "nombre": "Maquinaria y equipo para agricultura, silvicultura y paisajismo"
+    },
+    {
+      "codigo": "2111",
+      "segmento": "21",
+      "nombre": "Equipo de pesca y acuicultura"
+    },
+    {
+      "codigo": "2210",
+      "segmento": "22",
+      "nombre": "Maquinaria y equipo pesado de construcción"
+    },
+    {
+      "codigo": "2310",
+      "segmento": "23",
+      "nombre": "Maquinaria para el procesamiento de materias primas"
+    },
+    {
+      "codigo": "2311",
+      "segmento": "23",
+      "nombre": "Maquinaria para el procesamiento de petróleo"
+    },
+    {
+      "codigo": "2312",
+      "segmento": "23",
+      "nombre": "Maquinaria y accesorios de textiles y tejidos"
+    },
+    {
+      "codigo": "2313",
+      "segmento": "23",
+      "nombre": "Maquinaria y equipos lapidarios"
+    },
+    {
+      "codigo": "2314",
+      "segmento": "23",
+      "nombre": "Maquinaria de reparación y accesorios para marroquinería"
+    },
+    {
+      "codigo": "2315",
+      "segmento": "23",
+      "nombre": "Maquinaria, equipo y suministros de procesos industriales"
+    },
+    {
+      "codigo": "2316",
+      "segmento": "23",
+      "nombre": "Máquinas, equipo y suministros para fundición"
+    },
+    {
+      "codigo": "2318",
+      "segmento": "23",
+      "nombre": "Equipo industrial para alimentos y bebidas"
+    },
+    {
+      "codigo": "2319",
+      "segmento": "23",
+      "nombre": "Mezcladores y sus partes y accesorios"
+    },
+    {
+      "codigo": "2320",
+      "segmento": "23",
+      "nombre": "Equipamiento para transferencia de masa"
+    },
+    {
+      "codigo": "2321",
+      "segmento": "23",
+      "nombre": "Maquinaria de fabricación electrónica, equipo y accesorios"
+    },
+    {
+      "codigo": "2322",
+      "segmento": "23",
+      "nombre": "Equipo y maquinaria de procesamiento de pollos"
+    },
+    {
+      "codigo": "2323",
+      "segmento": "23",
+      "nombre": "Equipo y maquinaria de procesamiento de madera y aserrado"
+    },
+    {
+      "codigo": "2324",
+      "segmento": "23",
+      "nombre": "Maquinaria y accesorios para cortar metales"
+    },
+    {
+      "codigo": "2325",
+      "segmento": "23",
+      "nombre": "Maquinaria y accesorios para el formado de metales"
+    },
+    {
+      "codigo": "2326",
+      "segmento": "23",
+      "nombre": "Maquinaria y accesorios para hacer prototipos rápidos"
+    },
+    {
+      "codigo": "2327",
+      "segmento": "23",
+      "nombre": "Maquinaria y accesorios y suministros para soldadura de todas las clases"
+    },
+    {
+      "codigo": "2328",
+      "segmento": "23",
+      "nombre": "Maquinaria para el tratamiento de metal"
+    },
+    {
+      "codigo": "2329",
+      "segmento": "23",
+      "nombre": "Herramientas de maquinado industrial"
+    },
+    {
+      "codigo": "2330",
+      "segmento": "23",
+      "nombre": "Maquinaria y equipo para cable"
+    },
+    {
+      "codigo": "2410",
+      "segmento": "24",
+      "nombre": "Maquinaria y equipo para manejo de materiales"
+    },
+    {
+      "codigo": "2411",
+      "segmento": "24",
+      "nombre": "Recipientes y almacenamiento"
+    },
+    {
+      "codigo": "2412",
+      "segmento": "24",
+      "nombre": "Materiales de empaque"
+    },
+    {
+      "codigo": "2413",
+      "segmento": "24",
+      "nombre": "Refrigeración industrial"
+    },
+    {
+      "codigo": "2414",
+      "segmento": "24",
+      "nombre": "Suministros de embalaje"
+    },
+    {
+      "codigo": "2510",
+      "segmento": "25",
+      "nombre": "Vehículos de motor"
+    },
+    {
+      "codigo": "2511",
+      "segmento": "25",
+      "nombre": "Transporte marítimo"
+    },
+    {
+      "codigo": "2512",
+      "segmento": "25",
+      "nombre": "Maquinaria y equipo para ferrocarril y tranvías"
+    },
+    {
+      "codigo": "2513",
+      "segmento": "25",
+      "nombre": "Aeronaves"
+    },
+    {
+      "codigo": "2515",
+      "segmento": "25",
+      "nombre": "Naves espaciales"
+    },
+    {
+      "codigo": "2516",
+      "segmento": "25",
+      "nombre": "Bicicletas no motorizadas"
+    },
+    {
+      "codigo": "2517",
+      "segmento": "25",
+      "nombre": "Componentes y sistemas de transporte"
+    },
+    {
+      "codigo": "2518",
+      "segmento": "25",
+      "nombre": "Carrocerías y remolques"
+    },
+    {
+      "codigo": "2519",
+      "segmento": "25",
+      "nombre": "Equipo para servicios de transporte"
+    },
+    {
+      "codigo": "2520",
+      "segmento": "25",
+      "nombre": "Sistemas componentes y equipos aeroespaciales"
+    },
+    {
+      "codigo": "2610",
+      "segmento": "26",
+      "nombre": "Fuentes de energía"
+    },
+    {
+      "codigo": "2611",
+      "segmento": "26",
+      "nombre": "Baterías y generadores y transmisión de energía cinética"
+    },
+    {
+      "codigo": "2612",
+      "segmento": "26",
+      "nombre": "Alambres, cables y arneses"
+    },
+    {
+      "codigo": "2613",
+      "segmento": "26",
+      "nombre": "Generación de energía"
+    },
+    {
+      "codigo": "2614",
+      "segmento": "26",
+      "nombre": "Maquinaria y equipo para energía atómica o nuclear"
+    },
+    {
+      "codigo": "2711",
+      "segmento": "27",
+      "nombre": "Herramientas de mano"
+    },
+    {
+      "codigo": "2712",
+      "segmento": "27",
+      "nombre": "Maquinaria y equipo hidráulico"
+    },
+    {
+      "codigo": "2713",
+      "segmento": "27",
+      "nombre": "Maquinaria y equipo neumático"
+    },
+    {
+      "codigo": "2714",
+      "segmento": "27",
+      "nombre": "Herramientas especializadas automotrices"
+    },
+    {
+      "codigo": "3010",
+      "segmento": "30",
+      "nombre": "Componentes estructurales y formas básicas"
+    },
+    {
+      "codigo": "3011",
+      "segmento": "30",
+      "nombre": "Hormigón, cemento y yeso"
+    },
+    {
+      "codigo": "3012",
+      "segmento": "30",
+      "nombre": "Carreteras y paisaje"
+    },
+    {
+      "codigo": "3013",
+      "segmento": "30",
+      "nombre": "Productos de construcción estructurales"
+    },
+    {
+      "codigo": "3014",
+      "segmento": "30",
+      "nombre": "Aislamiento"
+    },
+    {
+      "codigo": "3015",
+      "segmento": "30",
+      "nombre": "Materiales para acabado de exteriores"
+    },
+    {
+      "codigo": "3016",
+      "segmento": "30",
+      "nombre": "Materiales de acabado de interiores"
+    },
+    {
+      "codigo": "3017",
+      "segmento": "30",
+      "nombre": "Puertas y ventanas y vidrio"
+    },
+    {
+      "codigo": "3018",
+      "segmento": "30",
+      "nombre": "Instalaciones de plomería"
+    },
+    {
+      "codigo": "3019",
+      "segmento": "30",
+      "nombre": "Equipo de apoyo para Construcción y Mantenimiento"
+    },
+    {
+      "codigo": "3024",
+      "segmento": "30",
+      "nombre": "Componentes de construcción de estructura portátil"
+    },
+    {
+      "codigo": "3025",
+      "segmento": "30",
+      "nombre": "Estructuras y materiales de minería subterránea"
+    },
+    {
+      "codigo": "3026",
+      "segmento": "30",
+      "nombre": "Materiales estructurales"
+    },
+    {
+      "codigo": "3110",
+      "segmento": "31",
+      "nombre": "Piezas de fundición y ensambles de piezas de fundición"
+    },
+    {
+      "codigo": "3111",
+      "segmento": "31",
+      "nombre": "Extrusiones"
+    },
+    {
+      "codigo": "3112",
+      "segmento": "31",
+      "nombre": "Piezas fundidas maquinadas"
+    },
+    {
+      "codigo": "3113",
+      "segmento": "31",
+      "nombre": "Forjaduras"
+    },
+    {
+      "codigo": "3114",
+      "segmento": "31",
+      "nombre": "Molduras"
+    },
+    {
+      "codigo": "3115",
+      "segmento": "31",
+      "nombre": "Cuerda, cadena, cable, alambre y correa"
+    },
+    {
+      "codigo": "3116",
+      "segmento": "31",
+      "nombre": "Ferretería"
+    },
+    {
+      "codigo": "3117",
+      "segmento": "31",
+      "nombre": "Rodamientos, cojinetes ruedas y engranajes"
+    },
+    {
+      "codigo": "3118",
+      "segmento": "31",
+      "nombre": "Empaques, glándulas, fundas y cubiertas"
+    },
+    {
+      "codigo": "3119",
+      "segmento": "31",
+      "nombre": "Materiales de afilado pulido y alisado"
+    },
+    {
+      "codigo": "3120",
+      "segmento": "31",
+      "nombre": "Adhesivos y selladores"
+    },
+    {
+      "codigo": "3121",
+      "segmento": "31",
+      "nombre": "Pinturas y bases y acabados"
+    },
+    {
+      "codigo": "3122",
+      "segmento": "31",
+      "nombre": "Extractos de teñir y de curtir"
+    },
+    {
+      "codigo": "3123",
+      "segmento": "31",
+      "nombre": "Materia prima en placas o barras labradas"
+    },
+    {
+      "codigo": "3124",
+      "segmento": "31",
+      "nombre": "Óptica industrial"
+    },
+    {
+      "codigo": "3125",
+      "segmento": "31",
+      "nombre": "Sistemas de control neumático, hidráulico o eléctrico"
+    },
+    {
+      "codigo": "3126",
+      "segmento": "31",
+      "nombre": "Cubiertas, cajas y envolturas"
+    },
+    {
+      "codigo": "3127",
+      "segmento": "31",
+      "nombre": "Piezas hechas a máquina"
+    },
+    {
+      "codigo": "3128",
+      "segmento": "31",
+      "nombre": "Componentes de placa y estampados"
+    },
+    {
+      "codigo": "3129",
+      "segmento": "31",
+      "nombre": "Extrusiones maquinadas"
+    },
+    {
+      "codigo": "3130",
+      "segmento": "31",
+      "nombre": "Forjas labradas"
+    },
+    {
+      "codigo": "3131",
+      "segmento": "31",
+      "nombre": "Ensambles de tubería fabricada"
+    },
+    {
+      "codigo": "3132",
+      "segmento": "31",
+      "nombre": "Ensambles fabricados de material en barras"
+    },
+    {
+      "codigo": "3133",
+      "segmento": "31",
+      "nombre": "Ensambles estructurales fabricados"
+    },
+    {
+      "codigo": "3134",
+      "segmento": "31",
+      "nombre": "Ensambles de lámina fabricado"
+    },
+    {
+      "codigo": "3135",
+      "segmento": "31",
+      "nombre": "Ensambles de tubería fabricada"
+    },
+    {
+      "codigo": "3136",
+      "segmento": "31",
+      "nombre": "Ensambles de placa fabricados"
+    },
+    {
+      "codigo": "3137",
+      "segmento": "31",
+      "nombre": "Refractarios"
+    },
+    {
+      "codigo": "3138",
+      "segmento": "31",
+      "nombre": "Imanes y materiales magnéticos"
+    },
+    {
+      "codigo": "3139",
+      "segmento": "31",
+      "nombre": "Maquinados"
+    },
+    {
+      "codigo": "3140",
+      "segmento": "31",
+      "nombre": "Empaques"
+    },
+    {
+      "codigo": "3141",
+      "segmento": "31",
+      "nombre": "Sellos"
+    },
+    {
+      "codigo": "3142",
+      "segmento": "31",
+      "nombre": "Partes sinterizadas"
+    },
+    {
+      "codigo": "3210",
+      "segmento": "32",
+      "nombre": "Circuitos impresos, circuitos integrados y micro ensamblajes"
+    },
+    {
+      "codigo": "3211",
+      "segmento": "32",
+      "nombre": "Dispositivo semiconductor discreto"
+    },
+    {
+      "codigo": "3212",
+      "segmento": "32",
+      "nombre": "Componentes pasivos discretos"
+    },
+    {
+      "codigo": "3213",
+      "segmento": "32",
+      "nombre": "Piezas de componentes y hardware electrónicos y accesorios"
+    },
+    {
+      "codigo": "3214",
+      "segmento": "32",
+      "nombre": "Dispositivos de tubo electrónico y accesorios"
+    },
+    {
+      "codigo": "3215",
+      "segmento": "32",
+      "nombre": "Dispositivos y componentes y accesorios de control de automatización"
+    },
+    {
+      "codigo": "3910",
+      "segmento": "39",
+      "nombre": "Lámparas y bombillas y componentes para lámparas"
+    },
+    {
+      "codigo": "3911",
+      "segmento": "39",
+      "nombre": "Iluminación, artefactos y accesorios"
+    },
+    {
+      "codigo": "3912",
+      "segmento": "39",
+      "nombre": "Equipos, suministros y componentes eléctricos"
+    },
+    {
+      "codigo": "3913",
+      "segmento": "39",
+      "nombre": "Dispositivos y accesorios y suministros de manejo de cable eléctrico"
+    },
+    {
+      "codigo": "4010",
+      "segmento": "40",
+      "nombre": "Calefacción, ventilación y circulación del aire"
+    },
+    {
+      "codigo": "4014",
+      "segmento": "40",
+      "nombre": "Distribución de fluidos y gas"
+    },
+    {
+      "codigo": "4015",
+      "segmento": "40",
+      "nombre": "Bombas y compresores industriales"
+    },
+    {
+      "codigo": "4016",
+      "segmento": "40",
+      "nombre": "Filtrado y purificación industrial"
+    },
+    {
+      "codigo": "4017",
+      "segmento": "40",
+      "nombre": "Instalaciones de tubos y entubamientos"
+    },
+    {
+      "codigo": "4018",
+      "segmento": "40",
+      "nombre": "Instalaciones de tubos y tuberías"
+    },
+    {
+      "codigo": "4110",
+      "segmento": "41",
+      "nombre": "Equipo de laboratorio y científico"
+    },
+    {
+      "codigo": "4111",
+      "segmento": "41",
+      "nombre": "Instrumentos de medida, observación y ensayo"
+    },
+    {
+      "codigo": "4112",
+      "segmento": "41",
+      "nombre": "Suministros y accesorios de laboratorio"
+    },
+    {
+      "codigo": "4212",
+      "segmento": "42",
+      "nombre": "Equipos y suministros veterinarios"
+    },
+    {
+      "codigo": "4213",
+      "segmento": "42",
+      "nombre": "Telas y vestidos médicos"
+    },
+    {
+      "codigo": "4214",
+      "segmento": "42",
+      "nombre": "Suministros, productos de tratamiento y cuidado del enfermo"
+    },
+    {
+      "codigo": "4215",
+      "segmento": "42",
+      "nombre": "Equipos y suministros dentales"
+    },
+    {
+      "codigo": "4216",
+      "segmento": "42",
+      "nombre": "Equipo de diálisis y suministros"
+    },
+    {
+      "codigo": "4217",
+      "segmento": "42",
+      "nombre": "Productos para los servicios médicos de urgencias y campo"
+    },
+    {
+      "codigo": "4218",
+      "segmento": "42",
+      "nombre": "Productos de examen y control del paciente"
+    },
+    {
+      "codigo": "4219",
+      "segmento": "42",
+      "nombre": "Productos de centro médico"
+    },
+    {
+      "codigo": "4220",
+      "segmento": "42",
+      "nombre": "Productos de hacer imágenes diagnósticas médicas y de medicina nuclear"
+    },
+    {
+      "codigo": "4221",
+      "segmento": "42",
+      "nombre": "Ayuda para personas con desafíos físicos para vivir independiente"
+    },
+    {
+      "codigo": "4222",
+      "segmento": "42",
+      "nombre": "Productos para administración intravenosa y arterial"
+    },
+    {
+      "codigo": "4223",
+      "segmento": "42",
+      "nombre": "Nutrición clínica"
+    },
+    {
+      "codigo": "4224",
+      "segmento": "42",
+      "nombre": "Productos medicinales de deportes y ortopédicos y prótesis"
+    },
+    {
+      "codigo": "4225",
+      "segmento": "42",
+      "nombre": "Productos de rehabilitación y terapia ocupacional y física"
+    },
+    {
+      "codigo": "4226",
+      "segmento": "42",
+      "nombre": "Equipo y suministros post mortem y funerarios"
+    },
+    {
+      "codigo": "4227",
+      "segmento": "42",
+      "nombre": "Productos de resucitación, anestesia y respiratorio"
+    },
+    {
+      "codigo": "4228",
+      "segmento": "42",
+      "nombre": "Productos para la esterilización médica"
+    },
+    {
+      "codigo": "4229",
+      "segmento": "42",
+      "nombre": "Productos quirúrgicos"
+    },
+    {
+      "codigo": "4230",
+      "segmento": "42",
+      "nombre": "Suministros para formación y estudios de medicina"
+    },
+    {
+      "codigo": "4231",
+      "segmento": "42",
+      "nombre": "Productos para el cuidado de heridas"
+    },
+    {
+      "codigo": "4232",
+      "segmento": "42",
+      "nombre": "Implantes ortopédicos quirúrgicos"
+    },
+    {
+      "codigo": "4319",
+      "segmento": "43",
+      "nombre": "Dispositivos de comunicaciones y accesorios"
+    },
+    {
+      "codigo": "4320",
+      "segmento": "43",
+      "nombre": "Componentes para tecnología de la información, difusión o telecomunicaciones"
+    },
+    {
+      "codigo": "4321",
+      "segmento": "43",
+      "nombre": "Equipo informático y accesorios"
+    },
+    {
+      "codigo": "4322",
+      "segmento": "43",
+      "nombre": "Equipos o plataformas y accesorios de redes multimedia o de voz y datos"
+    },
+    {
+      "codigo": "4323",
+      "segmento": "43",
+      "nombre": "Software"
+    },
+    {
+      "codigo": "4410",
+      "segmento": "44",
+      "nombre": "Maquinaria, suministros y accesorios de oficina"
+    },
+    {
+      "codigo": "4411",
+      "segmento": "44",
+      "nombre": "Accesorios de oficina y escritorio"
+    },
+    {
+      "codigo": "4412",
+      "segmento": "44",
+      "nombre": "Suministros de oficina"
+    },
+    {
+      "codigo": "4510",
+      "segmento": "45",
+      "nombre": "Equipo de imprenta y publicación"
+    },
+    {
+      "codigo": "4511",
+      "segmento": "45",
+      "nombre": "Equipos de audio y video para presentación y composición"
+    },
+    {
+      "codigo": "4512",
+      "segmento": "45",
+      "nombre": "Equipo de vídeo, filmación o fotografía"
+    },
+    {
+      "codigo": "4513",
+      "segmento": "45",
+      "nombre": "Medios fotográficos y de grabación"
+    },
+    {
+      "codigo": "4514",
+      "segmento": "45",
+      "nombre": "Suministros fotográficos para cine"
+    },
+    {
+      "codigo": "4610",
+      "segmento": "46",
+      "nombre": "Armas ligeras y munición"
+    },
+    {
+      "codigo": "4611",
+      "segmento": "46",
+      "nombre": "Armas de guerra convencionales"
+    },
+    {
+      "codigo": "4612",
+      "segmento": "46",
+      "nombre": "Misiles"
+    },
+    {
+      "codigo": "4613",
+      "segmento": "46",
+      "nombre": "Cohetes y subsistemas"
+    },
+    {
+      "codigo": "4614",
+      "segmento": "46",
+      "nombre": "Lanzadores"
+    },
+    {
+      "codigo": "4615",
+      "segmento": "46",
+      "nombre": "Protección del Orden Público"
+    },
+    {
+      "codigo": "4616",
+      "segmento": "46",
+      "nombre": "Seguridad y control público"
+    },
+    {
+      "codigo": "4617",
+      "segmento": "46",
+      "nombre": "Seguridad, vigilancia y detección"
+    },
+    {
+      "codigo": "4618",
+      "segmento": "46",
+      "nombre": "Seguridad y protección personal"
+    },
+    {
+      "codigo": "4619",
+      "segmento": "46",
+      "nombre": "Protección contra incendios"
+    },
+    {
+      "codigo": "4620",
+      "segmento": "46",
+      "nombre": "Equipo de entrenamiento de seguridad física e industrial, defensa y orden público"
+    },
+    {
+      "codigo": "4710",
+      "segmento": "47",
+      "nombre": "Tratamiento, suministros y eliminación de agua y aguas residuales"
+    },
+    {
+      "codigo": "4711",
+      "segmento": "47",
+      "nombre": "Equipo industrial de lavandería y lavado en seco"
+    },
+    {
+      "codigo": "4712",
+      "segmento": "47",
+      "nombre": "Equipo de aseo"
+    },
+    {
+      "codigo": "4713",
+      "segmento": "47",
+      "nombre": "Suministros de aseo y limpieza"
+    },
+    {
+      "codigo": "4810",
+      "segmento": "48",
+      "nombre": "Equipos de servicios de alimentación para instituciones"
+    },
+    {
+      "codigo": "4811",
+      "segmento": "48",
+      "nombre": "Máquinas expendedoras"
+    },
+    {
+      "codigo": "4812",
+      "segmento": "48",
+      "nombre": "Equipo de Juego o de Apostar"
+    },
+    {
+      "codigo": "4813",
+      "segmento": "48",
+      "nombre": "Equipo y materiales funerarios"
+    },
+    {
+      "codigo": "4910",
+      "segmento": "49",
+      "nombre": "Coleccionables y condecoraciones"
+    },
+    {
+      "codigo": "4912",
+      "segmento": "49",
+      "nombre": "Equipos y accesorios para acampada y exteriores"
+    },
+    {
+      "codigo": "4913",
+      "segmento": "49",
+      "nombre": "Equipos de pesca y caza"
+    },
+    {
+      "codigo": "4914",
+      "segmento": "49",
+      "nombre": "Equipos para deportes acuáticos"
+    },
+    {
+      "codigo": "4915",
+      "segmento": "49",
+      "nombre": "Equipos para deportes de invierno"
+    },
+    {
+      "codigo": "4916",
+      "segmento": "49",
+      "nombre": "Equipos deportivos para campos y canchas"
+    },
+    {
+      "codigo": "4917",
+      "segmento": "49",
+      "nombre": "Equipos de gimnasia y boxeo"
+    },
+    {
+      "codigo": "4918",
+      "segmento": "49",
+      "nombre": "Juegos, equipo de tiro y mesa"
+    },
+    {
+      "codigo": "4920",
+      "segmento": "49",
+      "nombre": "Equipo para entrenamiento físico"
+    },
+    {
+      "codigo": "4921",
+      "segmento": "49",
+      "nombre": "Otros deportes"
+    },
+    {
+      "codigo": "4922",
+      "segmento": "49",
+      "nombre": "Equipo y accesorios para deportes"
+    },
+    {
+      "codigo": "4924",
+      "segmento": "49",
+      "nombre": "Equipo de recreo, parques infantiles y equipo y suministros de natación y de spa"
+    },
+    {
+      "codigo": "5010",
+      "segmento": "50",
+      "nombre": "Frutos secos"
+    },
+    {
+      "codigo": "5011",
+      "segmento": "50",
+      "nombre": "Productos de carne y aves de corral"
+    },
+    {
+      "codigo": "5012",
+      "segmento": "50",
+      "nombre": "Pescados y mariscos"
+    },
+    {
+      "codigo": "5013",
+      "segmento": "50",
+      "nombre": "Productos lácteos y huevos"
+    },
+    {
+      "codigo": "5015",
+      "segmento": "50",
+      "nombre": "Aceites y grasas comestibles"
+    },
+    {
+      "codigo": "5016",
+      "segmento": "50",
+      "nombre": "Chocolates, azúcares, edulcorantes y productos de confitería"
+    },
+    {
+      "codigo": "5017",
+      "segmento": "50",
+      "nombre": "Condimentos y conservantes"
+    },
+    {
+      "codigo": "5018",
+      "segmento": "50",
+      "nombre": "Productos de panadería"
+    },
+    {
+      "codigo": "5019",
+      "segmento": "50",
+      "nombre": "Alimentos preparados y conservados"
+    },
+    {
+      "codigo": "5020",
+      "segmento": "50",
+      "nombre": "Bebidas"
+    },
+    {
+      "codigo": "5021",
+      "segmento": "50",
+      "nombre": "Tabaco y productos de fumar y substitutos"
+    },
+    {
+      "codigo": "5022",
+      "segmento": "50",
+      "nombre": "Productos de cereales y legumbres"
+    },
+    {
+      "codigo": "5030",
+      "segmento": "50",
+      "nombre": "Fruta fresca"
+    },
+    {
+      "codigo": "5031",
+      "segmento": "50",
+      "nombre": "Fruta orgánica fresca"
+    },
+    {
+      "codigo": "5032",
+      "segmento": "50",
+      "nombre": "Fruta seca"
+    },
+    {
+      "codigo": "5033",
+      "segmento": "50",
+      "nombre": "Fruta orgánica seca"
+    },
+    {
+      "codigo": "5034",
+      "segmento": "50",
+      "nombre": "Fruta congelada"
+    },
+    {
+      "codigo": "5035",
+      "segmento": "50",
+      "nombre": "Fruta orgánica congelada"
+    },
+    {
+      "codigo": "5036",
+      "segmento": "50",
+      "nombre": "Fruta en lata o en frasco"
+    },
+    {
+      "codigo": "5037",
+      "segmento": "50",
+      "nombre": "Fruta orgánica en lata o en frasco"
+    },
+    {
+      "codigo": "5038",
+      "segmento": "50",
+      "nombre": "Puré de frutas"
+    },
+    {
+      "codigo": "5040",
+      "segmento": "50",
+      "nombre": "Vegetales frescos"
+    },
+    {
+      "codigo": "5041",
+      "segmento": "50",
+      "nombre": "Vegetales orgánicos frescos"
+    },
+    {
+      "codigo": "5042",
+      "segmento": "50",
+      "nombre": "Vegetales secos"
+    },
+    {
+      "codigo": "5043",
+      "segmento": "50",
+      "nombre": "Vegetales orgánicos secos"
+    },
+    {
+      "codigo": "5044",
+      "segmento": "50",
+      "nombre": "Vegetales congelados"
+    },
+    {
+      "codigo": "5045",
+      "segmento": "50",
+      "nombre": "Vegetales orgánicos congelados"
+    },
+    {
+      "codigo": "5046",
+      "segmento": "50",
+      "nombre": "Vegetales en lata o en frasco"
+    },
+    {
+      "codigo": "5047",
+      "segmento": "50",
+      "nombre": "Vegetales orgánicos en lata o en frasco"
+    },
+    {
+      "codigo": "5110",
+      "segmento": "51",
+      "nombre": "Medicamentos anti infecciosos"
+    },
+    {
+      "codigo": "5111",
+      "segmento": "51",
+      "nombre": "Agentes antitumorales"
+    },
+    {
+      "codigo": "5112",
+      "segmento": "51",
+      "nombre": "Medicamentos cardiovasculares"
+    },
+    {
+      "codigo": "5113",
+      "segmento": "51",
+      "nombre": "Medicamentos hematólogos"
+    },
+    {
+      "codigo": "5114",
+      "segmento": "51",
+      "nombre": "Medicamentos para el sistema nervioso central"
+    },
+    {
+      "codigo": "5115",
+      "segmento": "51",
+      "nombre": "Medicamentos para el sistema nervioso autónomo"
+    },
+    {
+      "codigo": "5116",
+      "segmento": "51",
+      "nombre": "Medicamentos que afectan al sistema respiratorio"
+    },
+    {
+      "codigo": "5117",
+      "segmento": "51",
+      "nombre": "Medicamentos que afectan al sistema gastrointestinal"
+    },
+    {
+      "codigo": "5118",
+      "segmento": "51",
+      "nombre": "Hormonas y antagonistas hormonales"
+    },
+    {
+      "codigo": "5119",
+      "segmento": "51",
+      "nombre": "Agentes que afectan el agua y los electrolitos"
+    },
+    {
+      "codigo": "5120",
+      "segmento": "51",
+      "nombre": "Medicamentos inmunomoduladores"
+    },
+    {
+      "codigo": "5121",
+      "segmento": "51",
+      "nombre": "Categorías de medicamentos varios"
+    },
+    {
+      "codigo": "5124",
+      "segmento": "51",
+      "nombre": "Fármacos que afectan a los oídos, los ojos, la nariz y la piel"
+    },
+    {
+      "codigo": "5125",
+      "segmento": "51",
+      "nombre": "Suplementos alimenticios veterinarios"
+    },
+    {
+      "codigo": "5210",
+      "segmento": "52",
+      "nombre": "Revestimientos de suelos"
+    },
+    {
+      "codigo": "5212",
+      "segmento": "52",
+      "nombre": "Ropa de cama, mantelerías, paños de cocina y toallas"
+    },
+    {
+      "codigo": "5213",
+      "segmento": "52",
+      "nombre": "Tratamientos de ventanas"
+    },
+    {
+      "codigo": "5214",
+      "segmento": "52",
+      "nombre": "Aparatos electrodomésticos"
+    },
+    {
+      "codigo": "5215",
+      "segmento": "52",
+      "nombre": "Utensilios de cocina domésticos"
+    },
+    {
+      "codigo": "5216",
+      "segmento": "52",
+      "nombre": "Electrónica de consumo"
+    },
+    {
+      "codigo": "5217",
+      "segmento": "52",
+      "nombre": "Tratamientos de pared doméstica"
+    },
+    {
+      "codigo": "5310",
+      "segmento": "53",
+      "nombre": "Ropa"
+    },
+    {
+      "codigo": "5311",
+      "segmento": "53",
+      "nombre": "Calzado"
+    },
+    {
+      "codigo": "5312",
+      "segmento": "53",
+      "nombre": "Maletas, bolsos de mano, mochilas y estuches"
+    },
+    {
+      "codigo": "5313",
+      "segmento": "53",
+      "nombre": "Artículos de tocador y cuidado personal"
+    },
+    {
+      "codigo": "5314",
+      "segmento": "53",
+      "nombre": "Fuentes y accesorios de costura"
+    },
+    {
+      "codigo": "5410",
+      "segmento": "54",
+      "nombre": "Joyería"
+    },
+    {
+      "codigo": "5411",
+      "segmento": "54",
+      "nombre": "Relojes"
+    },
+    {
+      "codigo": "5412",
+      "segmento": "54",
+      "nombre": "Gemas"
+    },
+    {
+      "codigo": "5510",
+      "segmento": "55",
+      "nombre": "Medios impresos"
+    },
+    {
+      "codigo": "5511",
+      "segmento": "55",
+      "nombre": "Material electrónico de referencia"
+    },
+    {
+      "codigo": "5512",
+      "segmento": "55",
+      "nombre": "Etiquetado y accesorios"
+    },
+    {
+      "codigo": "5610",
+      "segmento": "56",
+      "nombre": "Muebles de alojamiento"
+    },
+    {
+      "codigo": "5611",
+      "segmento": "56",
+      "nombre": "Muebles comerciales e industriales"
+    },
+    {
+      "codigo": "5612",
+      "segmento": "56",
+      "nombre": "Mobiliario institucional, escolar y educativo y accesorios"
+    },
+    {
+      "codigo": "5613",
+      "segmento": "56",
+      "nombre": "Muebles y accesorios para mercadeo"
+    },
+    {
+      "codigo": "5614",
+      "segmento": "56",
+      "nombre": "Adornos para el hogar"
+    },
+    {
+      "codigo": "6010",
+      "segmento": "60",
+      "nombre": "Materiales didácticos profesionales y de desarrollo y accesorios y suministros"
+    },
+    {
+      "codigo": "6011",
+      "segmento": "60",
+      "nombre": "Decoraciones y suministros del aula"
+    },
+    {
+      "codigo": "6012",
+      "segmento": "60",
+      "nombre": "Equipo, accesorios y suministros de arte y manualidades"
+    },
+    {
+      "codigo": "6013",
+      "segmento": "60",
+      "nombre": "Instrumentos musicales, piezas y accesorios"
+    },
+    {
+      "codigo": "6014",
+      "segmento": "60",
+      "nombre": "Juguetes y juegos"
+    },
+    {
+      "codigo": "7010",
+      "segmento": "70",
+      "nombre": "Pesquerías y acuicultura"
+    },
+    {
+      "codigo": "7011",
+      "segmento": "70",
+      "nombre": "Horticultura"
+    },
+    {
+      "codigo": "7012",
+      "segmento": "70",
+      "nombre": "Servicios de animales vivos"
+    },
+    {
+      "codigo": "7013",
+      "segmento": "70",
+      "nombre": "Preparación, gestión y protección del terreno y del suelo"
+    },
+    {
+      "codigo": "7014",
+      "segmento": "70",
+      "nombre": "Producción, gestión y protección de cultivos"
+    },
+    {
+      "codigo": "7015",
+      "segmento": "70",
+      "nombre": "Silvicultura"
+    },
+    {
+      "codigo": "7016",
+      "segmento": "70",
+      "nombre": "Fauna y flora silvestres"
+    },
+    {
+      "codigo": "7017",
+      "segmento": "70",
+      "nombre": "Desarrollo y vigilancia de recursos hidráulicos"
+    },
+    {
+      "codigo": "7110",
+      "segmento": "71",
+      "nombre": "Servicios de minería"
+    },
+    {
+      "codigo": "7111",
+      "segmento": "71",
+      "nombre": "Servicios de perforación y prospección petrolífera y de gas"
+    },
+    {
+      "codigo": "7112",
+      "segmento": "71",
+      "nombre": "Servicios de construcción y perforación de pozos"
+    },
+    {
+      "codigo": "7113",
+      "segmento": "71",
+      "nombre": "Servicios de aumento de la extracción y producción de gas y petróleo"
+    },
+    {
+      "codigo": "7114",
+      "segmento": "71",
+      "nombre": "Servicios de restauración y recuperación de gas y petróleo"
+    },
+    {
+      "codigo": "7115",
+      "segmento": "71",
+      "nombre": "Servicios de procesamiento y gestión de datos de petróleo y gas"
+    },
+    {
+      "codigo": "7116",
+      "segmento": "71",
+      "nombre": "Servicios de gerencia de proyectos en pozos de petróleo y gas"
+    },
+    {
+      "codigo": "7210",
+      "segmento": "72",
+      "nombre": "Servicios de mantenimiento y reparaciones de construcciones e instalaciones"
+    },
+    {
+      "codigo": "7211",
+      "segmento": "72",
+      "nombre": "Servicios de construcción de edificaciones residenciales"
+    },
+    {
+      "codigo": "7212",
+      "segmento": "72",
+      "nombre": "Servicios de construcción de edificaciones no residenciales"
+    },
+    {
+      "codigo": "7214",
+      "segmento": "72",
+      "nombre": "Servicios de construcción pesada"
+    },
+    {
+      "codigo": "7215",
+      "segmento": "72",
+      "nombre": "Servicios de mantenimiento y construcción de comercio especializado"
+    },
+    {
+      "codigo": "7310",
+      "segmento": "73",
+      "nombre": "Industrias de plásticos y productos químicos"
+    },
+    {
+      "codigo": "7311",
+      "segmento": "73",
+      "nombre": "Industrias de la madera y el papel"
+    },
+    {
+      "codigo": "7312",
+      "segmento": "73",
+      "nombre": "Industrias del metal y de minerales"
+    },
+    {
+      "codigo": "7313",
+      "segmento": "73",
+      "nombre": "Industrias de alimentos y bebidas"
+    },
+    {
+      "codigo": "7314",
+      "segmento": "73",
+      "nombre": "Industrias de fibras, textiles y de tejidos"
+    },
+    {
+      "codigo": "7315",
+      "segmento": "73",
+      "nombre": "Servicios de apoyo a la fabricación"
+    },
+    {
+      "codigo": "7316",
+      "segmento": "73",
+      "nombre": "Fabricación de maquinaria y equipo de transporte"
+    },
+    {
+      "codigo": "7317",
+      "segmento": "73",
+      "nombre": "Fabricación de productos eléctricos e instrumentos de precisión"
+    },
+    {
+      "codigo": "7318",
+      "segmento": "73",
+      "nombre": "Servicios de maquinado y procesado"
+    },
+    {
+      "codigo": "7610",
+      "segmento": "76",
+      "nombre": "Servicios de descontaminación"
+    },
+    {
+      "codigo": "7611",
+      "segmento": "76",
+      "nombre": "Servicios de aseo y limpieza"
+    },
+    {
+      "codigo": "7612",
+      "segmento": "76",
+      "nombre": "Eliminación y tratamiento de desechos"
+    },
+    {
+      "codigo": "7613",
+      "segmento": "76",
+      "nombre": "Limpieza de residuos tóxicos y peligrosos"
+    },
+    {
+      "codigo": "7710",
+      "segmento": "77",
+      "nombre": "Gestión medioambiental"
+    },
+    {
+      "codigo": "7711",
+      "segmento": "77",
+      "nombre": "Protección medioambiental"
+    },
+    {
+      "codigo": "7712",
+      "segmento": "77",
+      "nombre": "Seguimiento, control y rehabilitación de la contaminación"
+    },
+    {
+      "codigo": "7713",
+      "segmento": "77",
+      "nombre": "Servicios de seguimiento, control o rehabilitación de contaminantes"
+    },
+    {
+      "codigo": "7810",
+      "segmento": "78",
+      "nombre": "Transporte de correo y carga"
+    },
+    {
+      "codigo": "7811",
+      "segmento": "78",
+      "nombre": "Transporte de pasajeros"
+    },
+    {
+      "codigo": "7812",
+      "segmento": "78",
+      "nombre": "Manejo y embalaje de material"
+    },
+    {
+      "codigo": "7813",
+      "segmento": "78",
+      "nombre": "Almacenaje"
+    },
+    {
+      "codigo": "7814",
+      "segmento": "78",
+      "nombre": "Servicios de transporte"
+    },
+    {
+      "codigo": "7818",
+      "segmento": "78",
+      "nombre": "Servicios de mantenimiento o reparaciones de transportes"
+    },
+    {
+      "codigo": "8010",
+      "segmento": "80",
+      "nombre": "Servicios de asesoría de gestión"
+    },
+    {
+      "codigo": "8011",
+      "segmento": "80",
+      "nombre": "Servicios de recursos humanos"
+    },
+    {
+      "codigo": "8012",
+      "segmento": "80",
+      "nombre": "Servicios legales"
+    },
+    {
+      "codigo": "8013",
+      "segmento": "80",
+      "nombre": "Servicios inmobiliarios"
+    },
+    {
+      "codigo": "8014",
+      "segmento": "80",
+      "nombre": "Comercialización y distribución"
+    },
+    {
+      "codigo": "8015",
+      "segmento": "80",
+      "nombre": "Política comercial y servicios"
+    },
+    {
+      "codigo": "8016",
+      "segmento": "80",
+      "nombre": "Servicios de administración de empresas"
+    },
+    {
+      "codigo": "8110",
+      "segmento": "81",
+      "nombre": "Servicios profesionales de ingeniería"
+    },
+    {
+      "codigo": "8111",
+      "segmento": "81",
+      "nombre": "Servicios informáticos"
+    },
+    {
+      "codigo": "8112",
+      "segmento": "81",
+      "nombre": "Economía"
+    },
+    {
+      "codigo": "8113",
+      "segmento": "81",
+      "nombre": "Estadística"
+    },
+    {
+      "codigo": "8114",
+      "segmento": "81",
+      "nombre": "Tecnologías de fabricación"
+    },
+    {
+      "codigo": "8115",
+      "segmento": "81",
+      "nombre": "Servicios de pedología"
+    },
+    {
+      "codigo": "8116",
+      "segmento": "81",
+      "nombre": "Entrega de servicios de tecnología de información"
+    },
+    {
+      "codigo": "8210",
+      "segmento": "82",
+      "nombre": "Publicidad"
+    },
+    {
+      "codigo": "8211",
+      "segmento": "82",
+      "nombre": "Escritura y traducciones"
+    },
+    {
+      "codigo": "8212",
+      "segmento": "82",
+      "nombre": "Servicios de reproducción"
+    },
+    {
+      "codigo": "8213",
+      "segmento": "82",
+      "nombre": "Servicios fotográficos"
+    },
+    {
+      "codigo": "8214",
+      "segmento": "82",
+      "nombre": "Diseño gráfico"
+    },
+    {
+      "codigo": "8215",
+      "segmento": "82",
+      "nombre": "Artistas e intérpretes profesionales"
+    },
+    {
+      "codigo": "8310",
+      "segmento": "83",
+      "nombre": "Servicios públicos"
+    },
+    {
+      "codigo": "8311",
+      "segmento": "83",
+      "nombre": "Servicios de medios de telecomunicaciones"
+    },
+    {
+      "codigo": "8312",
+      "segmento": "83",
+      "nombre": "Servicios de información"
+    },
+    {
+      "codigo": "8410",
+      "segmento": "84",
+      "nombre": "Finanzas de desarrollo"
+    },
+    {
+      "codigo": "8411",
+      "segmento": "84",
+      "nombre": "Servicios de contabilidad y auditorias"
+    },
+    {
+      "codigo": "8412",
+      "segmento": "84",
+      "nombre": "Banca e inversiones"
+    },
+    {
+      "codigo": "8413",
+      "segmento": "84",
+      "nombre": "Servicios de seguros y pensiones"
+    },
+    {
+      "codigo": "8414",
+      "segmento": "84",
+      "nombre": "Agencias de crédito"
+    },
+    {
+      "codigo": "8510",
+      "segmento": "85",
+      "nombre": "Servicios integrales de salud"
+    },
+    {
+      "codigo": "8511",
+      "segmento": "85",
+      "nombre": "Prevención y control de enfermedades"
+    },
+    {
+      "codigo": "8512",
+      "segmento": "85",
+      "nombre": "Práctica médica"
+    },
+    {
+      "codigo": "8513",
+      "segmento": "85",
+      "nombre": "Ciencia médica, investigación y experimentación"
+    },
+    {
+      "codigo": "8514",
+      "segmento": "85",
+      "nombre": "Medicina alternativa y holística"
+    },
+    {
+      "codigo": "8515",
+      "segmento": "85",
+      "nombre": "Servicios alimenticios y de nutrición"
+    },
+    {
+      "codigo": "8516",
+      "segmento": "85",
+      "nombre": "Servicios de mantenimiento, renovación y reparación de equipo médico quirúrgico"
+    },
+    {
+      "codigo": "8517",
+      "segmento": "85",
+      "nombre": "Servicios de muerte y soporte al fallecimiento"
+    },
+    {
+      "codigo": "8610",
+      "segmento": "86",
+      "nombre": "Formación profesional"
+    },
+    {
+      "codigo": "8611",
+      "segmento": "86",
+      "nombre": "Sistemas educativos alternativos"
+    },
+    {
+      "codigo": "8612",
+      "segmento": "86",
+      "nombre": "Instituciones educativas"
+    },
+    {
+      "codigo": "8613",
+      "segmento": "86",
+      "nombre": "Servicios educativos especializados"
+    },
+    {
+      "codigo": "8614",
+      "segmento": "86",
+      "nombre": "Instalaciones educativas"
+    },
+    {
+      "codigo": "9010",
+      "segmento": "90",
+      "nombre": "Restaurantes y catering (servicios de comidas y bebidas)"
+    },
+    {
+      "codigo": "9011",
+      "segmento": "90",
+      "nombre": "Instalaciones hoteleras, alojamientos y centros de encuentros"
+    },
+    {
+      "codigo": "9012",
+      "segmento": "90",
+      "nombre": "Facilitación de viajes"
+    },
+    {
+      "codigo": "9013",
+      "segmento": "90",
+      "nombre": "Artes interpretativas"
+    },
+    {
+      "codigo": "9014",
+      "segmento": "90",
+      "nombre": "Deportes comerciales"
+    },
+    {
+      "codigo": "9015",
+      "segmento": "90",
+      "nombre": "Servicios de entretenimiento"
+    },
+    {
+      "codigo": "9110",
+      "segmento": "91",
+      "nombre": "Aspecto personal"
+    },
+    {
+      "codigo": "9111",
+      "segmento": "91",
+      "nombre": "Asistencia doméstica y personal"
+    },
+    {
+      "codigo": "9210",
+      "segmento": "92",
+      "nombre": "Orden público y seguridad"
+    },
+    {
+      "codigo": "9211",
+      "segmento": "92",
+      "nombre": "Servicios militares o defensa nacional"
+    },
+    {
+      "codigo": "9212",
+      "segmento": "92",
+      "nombre": "Seguridad y protección personal"
+    },
+    {
+      "codigo": "9310",
+      "segmento": "93",
+      "nombre": "Sistemas e instituciones políticas"
+    },
+    {
+      "codigo": "9311",
+      "segmento": "93",
+      "nombre": "Condiciones sociopolíticas"
+    },
+    {
+      "codigo": "9312",
+      "segmento": "93",
+      "nombre": "Relaciones internacionales"
+    },
+    {
+      "codigo": "9313",
+      "segmento": "93",
+      "nombre": "Ayuda y asistencia humanitaria"
+    },
+    {
+      "codigo": "9314",
+      "segmento": "93",
+      "nombre": "Servicios comunitarios y sociales"
+    },
+    {
+      "codigo": "9315",
+      "segmento": "93",
+      "nombre": "Servicios de administración y financiación pública"
+    },
+    {
+      "codigo": "9316",
+      "segmento": "93",
+      "nombre": "Tributación"
+    },
+    {
+      "codigo": "9317",
+      "segmento": "93",
+      "nombre": "Política y regulación comercial"
+    },
+    {
+      "codigo": "9410",
+      "segmento": "94",
+      "nombre": "Organizaciones laborales"
+    },
+    {
+      "codigo": "9411",
+      "segmento": "94",
+      "nombre": "Organizaciones religiosas"
+    },
+    {
+      "codigo": "9412",
+      "segmento": "94",
+      "nombre": "Clubes"
+    },
+    {
+      "codigo": "9413",
+      "segmento": "94",
+      "nombre": "Organizaciones, asociaciones y movimientos cívicos"
+    },
+    {
+      "codigo": "9510",
+      "segmento": "95",
+      "nombre": "Parcelas de tierra"
+    },
+    {
+      "codigo": "9511",
+      "segmento": "95",
+      "nombre": "Vías"
+    },
+    {
+      "codigo": "9512",
+      "segmento": "95",
+      "nombre": "Estructuras y edificios permanentes"
+    },
+    {
+      "codigo": "9513",
+      "segmento": "95",
+      "nombre": "Estructuras y edificios móviles"
+    },
+    {
+      "codigo": "9514",
+      "segmento": "95",
+      "nombre": "Estructuras y edificios prefabricados"
+    }
+  ]
+}
